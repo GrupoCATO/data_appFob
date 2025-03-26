@@ -1,0 +1,52 @@
+[
+        {
+            "page_metadata": {
+                "title": "About",
+                "description": "",
+                "slug": "acerca-de",
+                "sections": [
+                    {
+                        "title": "About",
+                        "description": "",
+                        "background_image": null,
+                        "format_image": null,
+                        "color_section": "#FFFFFFFF",
+                        "color_post": "#FFFFFFFF",
+                        "title_section_color": "#000000FF",
+                        "title_post_color": "#000000FF",
+                        "text_post_color": "#000000FF",
+                        "slug": "acerca-de",
+                        "component": null,
+                        "align": "RIGHT",
+                        "lines_to_show": "1",
+                        "title_visibility": true,
+                        "subtitle_visibility": false,
+                        "logo_visibility": "1",
+                        "tag_visibility": false,
+                        "description_visibility": false,
+                        "gallery_visibility": false,
+                        "scrollspy": false,
+                        "color_scrollspy": "#FFFFFFFF",
+                        "title_scrollspy": "#FFFFFFFF",
+                        "text_scrollspy": "#FFFFFFFF",
+                        "posts": [
+                            {
+                                "title": "Version 1.0.0",
+                                "subtitle": null,
+                                "description": "<p>Explore and protect the Orinoco! Live an immersive experience where you will discover the biodiversity and unique ecosystems of our region. Learn about the conservation and sustainability projects of the Orinoquia Biodiversa Foundation and become an active defender of nature.</p>\r\n\r\n<p>In addition, we invite you to join our educational and environmental initiatives, where you can learn, participate and contribute to the care of our planet. Together we make a difference! 🌿🌎</p>\r\n\r\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img alt=\"\" src=\"https://fundacionorinoquiabiodiversa.com/wp-content/uploads/2021/08/logo-FOB-min.png\" style=\"height:210px; width:404px\" /></p>\r\n\r\n<table align=\"center\" border=\"0\" style=\"width:250px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td><img alt=\"\" src=\"https://corporinoquitos-bucket.s3.us-east-2.amazonaws.com/media/pictures/image+(3).png\" style=\"height:50px; padding:4px; width:150px\" /></td>\r\n\t\t\t<td><img alt=\"\" src=\"https://corporinoquitos-bucket.s3.us-east-2.amazonaws.com/media/pictures/image+(4).png\" style=\"height:50px; padding:4px; width:150px\" /></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
+                                "slug": "acerca-de",
+                                "image": null,
+                                "audio": null,
+                                "parent": null,
+                                "tags": [],
+                                "creation_date": "27/11/2023 16:46",
+                                "calendar_date": "26/03/2025 17:20",
+                                "pill_size": 0
+                            }
+                        ]
+                    }
+                ],
+                "project": null
+            }
+        }
+    ]
