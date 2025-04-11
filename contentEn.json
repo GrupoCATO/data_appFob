@@ -8,7 +8,7 @@
                     {
                         "title": "“Did you know...” about ethnobotany.",
                         "description": "",
-                        "background_image": "contents/sections/background/Conoce_la_corporación__-_Sección_Contenido_NU34JnC.png",
+                        "background_image": "contents/sections/background/primer_pildora.png",
                         "format_image": "contents/sections/Membrete_-_Resultado.png",
                         "color_section": "#FFFFFFFF",
                         "color_post": "#FFFFFFFF",
@@ -35,12 +35,12 @@
                                 "subtitle": null,
                                 "description": "<p>Ethnobotany studies how cultures have used plants for medicine, food and rituals. Many current remedies come from ancestral knowledge - every plant has a story to discover! 🌱💡</p>",
                                 "slug": "sabias-que-sobre-la-etnobotanica",
-                                "image": "contents/banners/animated_logos/Mask_group.png",
+                                "image": "contents/banners/animated_logos/primer_pildora.png",
                                 "audio": null,
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 08:37",
-                                "calendar_date": "11/04/2025 15:51",
+                                "calendar_date": "11/04/2025 17:37",
                                 "gallery": [
                                     {
                                         "id": 6,
@@ -694,14 +694,14 @@
                                     },
                                     {
                                         "id": "418",
-                                        "question_type": "4",
-                                        "question": "Matches the plant with its traditional use.",
+                                        "question_type": "1",
+                                        "question": "Which statement is true about indigenous knowledge?",
                                         "audio": null,
-                                        "answer": null,
-                                        "option_1": "Yagé",
-                                        "option_2": "Cat's claw",
-                                        "option_3": "Borrachero",
-                                        "option_4": null,
+                                        "answer": "2",
+                                        "option_1": "It is only transmitted by books.",
+                                        "option_2": "It is transmitted orally and through rituals.",
+                                        "option_3": "It is only used by scientists.",
+                                        "option_4": "Currently unknown.",
                                         "option_5": null,
                                         "option_6": null,
                                         "false": "False",
@@ -724,14 +724,14 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 14472760
+                                "pill_size": 14467895
                             }
                         ]
                     },
                     {
                         "title": "Useful and Common Plants",
                         "description": "",
-                        "background_image": "contents/sections/background/Ecosistemas_vivos_-_Sección_Contenido_ErTLE5v.png",
+                        "background_image": "contents/sections/background/segunda_pildora.png",
                         "format_image": "contents/sections/Membrete_-_Resultado_Dwe94m4.png",
                         "color_section": "#FFFFFFFF",
                         "color_post": "#FFFFFFFF",
@@ -758,12 +758,12 @@
                                 "subtitle": null,
                                 "description": "<p>Plants have been fundamental allies in everyday life. From medicinal herbs to essential ingredients in the kitchen, many species provide us with incredible benefits. Discover here some of the most commonly used plants and their multiple uses in health, food and wellness. 🌱✨</p>",
                                 "slug": "plantas-utiles-y-comunes",
-                                "image": "contents/banners/animated_logos/Group_160.png",
+                                "image": "contents/banners/animated_logos/segunda_pildora.png",
                                 "audio": null,
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 11:58",
-                                "calendar_date": "11/04/2025 15:52",
+                                "calendar_date": "11/04/2025 17:37",
                                 "gallery": [
                                     {
                                         "id": 15,
@@ -1954,21 +1954,21 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 299000990
+                                "pill_size": 299026276
                             }
                         ]
                     },
                     {
                         "title": "Conservation, Awareness and Ancestral Knowledge",
                         "description": "",
-                        "background_image": "contents/sections/background/Aguas_limpias_y_cuencas_vivas_-_Sección_Contenido.png",
+                        "background_image": "contents/sections/background/tercer_pildora.png",
                         "format_image": "contents/sections/Membrete_-_Resultado_4s7k8rZ.png",
                         "color_section": "#FFFFFFFF",
                         "color_post": "#FFFFFFFF",
                         "title_section_color": "#000000FF",
                         "title_post_color": "#000000FF",
                         "text_post_color": "#000000FF",
-                        "slug": "conservacion-conciencia-y-conocimiento-ancestral",
+                        "slug": "conservacion-conciencia",
                         "component": null,
                         "align": "RIGHT",
                         "lines_to_show": "1",
@@ -1987,13 +1987,13 @@
                                 "title": "Conservation, Awareness and Ancestral Knowledge",
                                 "subtitle": null,
                                 "description": "<p>The wisdom of ancient cultures has taught us the value of plants and their importance in our lives. Today, more than ever, it is essential to protect this knowledge and the ecosystems that sustain it. Through the conservation and rescue of endangered species, we can ensure that future generations will continue to benefit from the natural and cultural wealth that surrounds us. 🌎✨</p>",
-                                "slug": "conservacion-conciencia-y-conocimiento-ancestral",
-                                "image": "contents/banners/animated_logos/Group_161.png",
+                                "slug": "conservacion-conciencia",
+                                "image": "contents/banners/animated_logos/tercer_pildora.png",
                                 "audio": null,
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 08:50",
-                                "calendar_date": "11/04/2025 15:52",
+                                "calendar_date": "11/04/2025 17:38",
                                 "gallery": [
                                     {
                                         "id": 11,
@@ -2931,7 +2931,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 290418436
+                                "pill_size": 290416824
                             }
                         ]
                     },
