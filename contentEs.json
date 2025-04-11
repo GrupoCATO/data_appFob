@@ -40,7 +40,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 08:37",
-                                "calendar_date": "10/04/2025 12:15",
+                                "calendar_date": "11/04/2025 14:48",
                                 "gallery": [
                                     {
                                         "id": 6,
@@ -54,11 +54,11 @@
                                         "weight": 12996930
                                     }
                                 ],
-                                "teacher": "contents/icon_post/2._Guia_Docente_-_Conoce_la_corporación.pdf",
-                                "student": "contents/icon_post/3._Guia_Estudiante_-_Conoce_la_corporación.pdf",
-                                "metadata": "contents/metadata/4._Metadatos_-_Conoce_la_corporación.pdf",
+                                "teacher": null,
+                                "student": null,
+                                "metadata": null,
                                 "result": null,
-                                "sources": "contents/fonts/5._Fuentes_-_Conoce_la_corporación.pdf",
+                                "sources": null,
                                 "credit": "contents/credits/6._Creditos.pdf",
                                 "pill": [
                                     {
@@ -263,7 +263,7 @@
                                         "slug": "slide-7-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
-                                        "order": 8,
+                                        "order": 7,
                                         "gallery": [
                                             {
                                                 "id": "659",
@@ -293,12 +293,12 @@
                                         "size": 113274
                                     },
                                     {
-                                        "title": null,
+                                        "title": "DESARROLLO TEMÁTICO",
                                         "content": "<p style=\"text-align:justify\">La espiritualidad ind&iacute;gena est&aacute; profundamente conectada con las plantas. En muchas culturas, son consideradas &ldquo;seres con esp&iacute;ritu&rdquo; que ayudan en la sanaci&oacute;n y conexi&oacute;n con lo divino. La coca, la yuca dulce y el yag&eacute; son consideradas plantas sagradas en muchas comunidades colombianas, usadas en rituales de iniciaci&oacute;n, sanaci&oacute;n o contacto con los ancestros.<br />\r\nEn los rituales <strong>Kogui</strong>, por ejemplo, las hojas de coca se mastican durante la &ldquo;mambeada&rdquo;, mientras se conversa sobre la armon&iacute;a del mundo. El respeto por estas plantas tambi&eacute;n implica rituales de siembra, cuidado y cosecha con intenci&oacute;n espiritual. Estas pr&aacute;cticas est&aacute;n siendo reconocidas en espacios acad&eacute;micos y legales como parte del patrimonio cultural inmaterial de Colombia.</p>",
                                         "slug": "slide-8-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
-                                        "order": 9,
+                                        "order": 8,
                                         "gallery": [
                                             {
                                                 "id": "661",
@@ -333,7 +333,7 @@
                                         "slug": "slide-9-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
-                                        "order": 10,
+                                        "order": 9,
                                         "gallery": [
                                             {
                                                 "id": "663",
@@ -368,7 +368,7 @@
                                         "slug": "slide-10-ejercicio-practico",
                                         "type": "4",
                                         "type_comic": "0",
-                                        "order": 11,
+                                        "order": 10,
                                         "question": {
                                             "id": "150",
                                             "question_type": "1",
@@ -408,7 +408,7 @@
                                         "slug": "slide-11-conclusiones",
                                         "type": "2",
                                         "type_comic": "0",
-                                        "order": 12,
+                                        "order": 11,
                                         "size": 0
                                     }
                                 ],
@@ -662,37 +662,6 @@
                                         "weight": 0
                                     },
                                     {
-                                        "id": "170",
-                                        "question_type": "4",
-                                        "question": "Empareja la planta con su uso tradicional.",
-                                        "audio": null,
-                                        "answer": null,
-                                        "option_1": "Yagé",
-                                        "option_2": "Uña de gato",
-                                        "option_3": "Borrachero",
-                                        "option_4": null,
-                                        "option_5": null,
-                                        "option_6": null,
-                                        "false": "False",
-                                        "true": "True",
-                                        "option_image_1": "contents/questions/pregunta11-2.png",
-                                        "option_image_2": "contents/questions/pregunta11-3.png",
-                                        "option_image_3": "contents/questions/pregunta11-1.jpg",
-                                        "option_image_4": null,
-                                        "option_image_5": null,
-                                        "option_image_6": null,
-                                        "category_1": "Visiones espirituales",
-                                        "category_2": "Inflamaciones",
-                                        "category_3": "Ritos chamánicos",
-                                        "category_4": null,
-                                        "category_5": null,
-                                        "category_6": null,
-                                        "category_7": null,
-                                        "category_8": null,
-                                        "slug_question": "e10-sabias-que-sobre-la-etnobotanica-es",
-                                        "weight": 233615
-                                    },
-                                    {
                                         "id": "158",
                                         "question_type": "1",
                                         "question": "¿Cuál de estas afirmaciones sobre el borrachero es cierta?",
@@ -722,9 +691,40 @@
                                         "category_8": null,
                                         "slug_question": "e4-sabias-que-sobre-la-etnobotanica-es",
                                         "weight": 0
+                                    },
+                                    {
+                                        "id": "417",
+                                        "question_type": "4",
+                                        "question": "Empareja la planta con su uso tradicional.",
+                                        "audio": null,
+                                        "answer": null,
+                                        "option_1": "Yagé",
+                                        "option_2": "Uña de gato",
+                                        "option_3": "Borrachero",
+                                        "option_4": null,
+                                        "option_5": null,
+                                        "option_6": null,
+                                        "false": "False",
+                                        "true": "True",
+                                        "option_image_1": null,
+                                        "option_image_2": null,
+                                        "option_image_3": null,
+                                        "option_image_4": null,
+                                        "option_image_5": null,
+                                        "option_image_6": null,
+                                        "category_1": "Visiones espirituales",
+                                        "category_2": "Inflamaciones",
+                                        "category_3": "Ritos chamánicos",
+                                        "category_4": null,
+                                        "category_5": null,
+                                        "category_6": null,
+                                        "category_7": null,
+                                        "category_8": null,
+                                        "slug_question": "e10-sabias-que-sobre-la-etnobotanica-es",
+                                        "weight": 0
                                     }
                                 ],
-                                "pill_size": 17288690
+                                "pill_size": 14472760
                             }
                         ]
                     },
