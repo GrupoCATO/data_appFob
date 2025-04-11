@@ -40,7 +40,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 08:37",
-                                "calendar_date": "10/04/2025 12:14",
+                                "calendar_date": "11/04/2025 14:48",
                                 "gallery": [
                                     {
                                         "id": 6,
@@ -54,11 +54,11 @@
                                         "weight": 12996930
                                     }
                                 ],
-                                "teacher": "contents/icon_post/2._Guia_Docente_-_Conoce_la_corporación.pdf",
-                                "student": "contents/icon_post/3._Guia_Estudiante_-_Conoce_la_corporación.pdf",
-                                "metadata": "contents/metadata/4._Metadatos_-_Conoce_la_corporación.pdf",
+                                "teacher": null,
+                                "student": null,
+                                "metadata": null,
                                 "result": null,
-                                "sources": "contents/fonts/5._Fuentes_-_Conoce_la_corporación.pdf",
+                                "sources": null,
                                 "credit": "contents/credits/6._Creditos.pdf",
                                 "pill": [
                                     {
@@ -263,7 +263,7 @@
                                         "slug": "slide-7-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
-                                        "order": 8,
+                                        "order": 7,
                                         "gallery": [
                                             {
                                                 "id": "659",
@@ -293,12 +293,12 @@
                                         "size": 113274
                                     },
                                     {
-                                        "title": null,
+                                        "title": "THEMATIC DEVELOPMENT",
                                         "content": "<p>Indigenous spirituality is deeply connected to plants. In many cultures, they are considered &ldquo;spirit beings&rdquo; that aid in healing and connection with the divine. Coca, sweet yucca and yag&eacute; are considered sacred plants in many Colombian communities, used in rituals of initiation, healing or contact with ancestors.<br />\r\nIn <strong>Kogui</strong> rituals, for example, coca leaves are chewed during the &ldquo;mambeada&rdquo;, while talking about the harmony of the world. Respect for these plants also involves rituals of planting, care and harvesting with spiritual intention. These practices are being recognized in academic and legal spaces as part of Colombia&#39;s intangible cultural heritage.</p>",
                                         "slug": "slide-8-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
-                                        "order": 9,
+                                        "order": 8,
                                         "gallery": [
                                             {
                                                 "id": "661",
@@ -333,7 +333,7 @@
                                         "slug": "slide-9-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
-                                        "order": 10,
+                                        "order": 9,
                                         "gallery": [
                                             {
                                                 "id": "663",
@@ -368,7 +368,7 @@
                                         "slug": "slide-10-ejercicio-practico",
                                         "type": "4",
                                         "type_comic": "0",
-                                        "order": 11,
+                                        "order": 10,
                                         "question": {
                                             "id": "151",
                                             "question_type": "1",
@@ -408,7 +408,7 @@
                                         "slug": "slide-11-conclusiones",
                                         "type": "2",
                                         "type_comic": "0",
-                                        "order": 12,
+                                        "order": 11,
                                         "size": 0
                                     }
                                 ],
@@ -631,37 +631,6 @@
                                         "weight": 0
                                     },
                                     {
-                                        "id": "171",
-                                        "question_type": "4",
-                                        "question": "Matches the plant with its traditional use.",
-                                        "audio": null,
-                                        "answer": null,
-                                        "option_1": "Yagé",
-                                        "option_2": "Cat's claw",
-                                        "option_3": "Borrachero",
-                                        "option_4": null,
-                                        "option_5": null,
-                                        "option_6": null,
-                                        "false": "False",
-                                        "true": "True",
-                                        "option_image_1": "contents/questions/pregunta11-2_YlhpYl7.png",
-                                        "option_image_2": "contents/questions/pregunta11-3_LuAbjsc.png",
-                                        "option_image_3": "contents/questions/pregunta11-1_Qndporo.jpg",
-                                        "option_image_4": null,
-                                        "option_image_5": null,
-                                        "option_image_6": null,
-                                        "category_1": "Spiritual visions",
-                                        "category_2": "Inflammations",
-                                        "category_3": "Shamanic rites",
-                                        "category_4": null,
-                                        "category_5": null,
-                                        "category_6": null,
-                                        "category_7": null,
-                                        "category_8": null,
-                                        "slug_question": "e10-sabias-que-sobre-la-etnobotanica-en",
-                                        "weight": 233615
-                                    },
-                                    {
                                         "id": "161",
                                         "question_type": "3",
                                         "question": "Plants also have a spiritual value in the indigenous cosmovision.",
@@ -722,9 +691,40 @@
                                         "category_8": null,
                                         "slug_question": "e3-sabias-que-sobre-la-etnobotanica-en",
                                         "weight": 0
+                                    },
+                                    {
+                                        "id": "418",
+                                        "question_type": "4",
+                                        "question": "Matches the plant with its traditional use.",
+                                        "audio": null,
+                                        "answer": null,
+                                        "option_1": "Yagé",
+                                        "option_2": "Cat's claw",
+                                        "option_3": "Borrachero",
+                                        "option_4": null,
+                                        "option_5": null,
+                                        "option_6": null,
+                                        "false": "False",
+                                        "true": "True",
+                                        "option_image_1": null,
+                                        "option_image_2": null,
+                                        "option_image_3": null,
+                                        "option_image_4": null,
+                                        "option_image_5": null,
+                                        "option_image_6": null,
+                                        "category_1": "Spiritual visions",
+                                        "category_2": "Inflammations",
+                                        "category_3": "Shamanic rites",
+                                        "category_4": null,
+                                        "category_5": null,
+                                        "category_6": null,
+                                        "category_7": null,
+                                        "category_8": null,
+                                        "slug_question": "e10-sabias-que-sobre-la-etnobotanica-en",
+                                        "weight": 0
                                     }
                                 ],
-                                "pill_size": 17288690
+                                "pill_size": 14472760
                             }
                         ]
                     },
