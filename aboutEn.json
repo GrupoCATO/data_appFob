@@ -1,12 +1,6 @@
 [
-        {
-            "page_metadata": {
-                "title": "Acerca de",
-                "description": "",
-                "slug": "acerca-de",
-                "sections": [
                     {
-                        "title": "Acerca de",
+                        "title": "About",
                         "description": "",
                         "background_image": null,
                         "format_image": null,
@@ -31,16 +25,16 @@
                         "text_scrollspy": "#FFFFFFFF",
                         "posts": [
                             {
-                                "title": "Versión 1.0.",
+                                "title": "Version 1.0.0",
                                 "subtitle": null,
-                                "description": "<p style=\"text-align:justify\">&iexcl;Conoce y aprende de la Orinoqu&iacute;a! viviendo una experiencia inmersiva de realidad virtual y realidad aumentada, disfruta y aprende de &nbsp;los lugares y proyectos medioambientales m&aacute;s importantes de nuestro territorio y convi&eacute;rtete en un defensor activo de nuestro planeta.&nbsp;</p>\r\n\r\n<p style=\"text-align:justify\">Tambi&eacute;n te invitamos a descargar el juego interactivo &quot;Corpo Desaf&iacute;o&quot;, una emocionante odisea en la que te enfrentar&aacute;s a pruebas de conocimiento, desafiando a tus amigos para ganar puntos y rescatar los animales de la Orinoqu&iacute;a.</p>\r\n\r\n<table align=\"center\" border=\"0\" style=\"width:150px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td><img alt=\"\" src=\"https://corporinoquitos-bucket.s3.us-east-2.amazonaws.com/media/pictures/Corpodeafio+4+1.png\" style=\"height:63px; width:150px\" /></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<table align=\"center\" border=\"0\" style=\"width:250px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td><img alt=\"\" src=\"https://corporinoquitos-bucket.s3.us-east-2.amazonaws.com/media/pictures/Group+185.png\" style=\"height:50px; padding:4px; width:150px\" /></td>\r\n\t\t\t<td><img alt=\"\" src=\"https://corporinoquitos-bucket.s3.us-east-2.amazonaws.com/media/pictures/Group+186.png\" style=\"height:50px; padding:4px; width:150px\" /></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<table align=\"center\" border=\"0\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:250px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"text-align:center\"><img alt=\"\" src=\"https://corporinoquitos-bucket.s3.us-east-2.amazonaws.com/media/pictures/Group+172.png\" style=\"height:29px; width:250px\" /></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
+                                "description": "<p>Explore and protect the Orinoco! Live an immersive experience where you will discover the biodiversity and unique ecosystems of our region. Learn about the conservation and sustainability projects of the Orinoquia Biodiversa Foundation and become an active defender of nature.</p>\r\n\r\n<p>In addition, we invite you to join our educational and environmental initiatives, where you can learn, participate and contribute to the care of our planet. Together we make a difference! 🌿🌎&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img alt=\"\" src=\"https://fundacionorinoquiabiodiversa.com/wp-content/uploads/2022/01/quechu1.png\" style=\"height:133px; width:79px\" /></p>\r\n\r\n<table align=\"center\" border=\"0\" style=\"width:250px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td><img alt=\"\" src=\"https://corporinoquitos-bucket.s3.us-east-2.amazonaws.com/media/pictures/image+(3).png\" style=\"height:50px; padding:4px; width:150px\" /></td>\r\n\t\t\t<td><img alt=\"\" src=\"https://corporinoquitos-bucket.s3.us-east-2.amazonaws.com/media/pictures/image+(4).png\" style=\"height:50px; padding:4px; width:150px\" /></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
                                 "slug": "acerca-de",
                                 "image": null,
                                 "audio": null,
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "27/11/2023 16:46",
-                                "calendar_date": "07/12/2023 15:11",
+                                "calendar_date": "12/04/2025 14:22",
                                 "pill_size": 0
                             }
                         ]
