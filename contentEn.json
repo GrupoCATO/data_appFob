@@ -9,7 +9,7 @@
                         "title": "“Did you know...” about ethnobotany.",
                         "description": "",
                         "background_image": "contents/sections/background/primer_pildora.png",
-                        "format_image": "contents/sections/Membrete_-_Resultado.png",
+                        "format_image": "contents/sections/membrete.png",
                         "color_section": "#FFFFFFFF",
                         "color_post": "#FFFFFFFF",
                         "title_section_color": "#000000FF",
@@ -40,7 +40,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 08:37",
-                                "calendar_date": "12/04/2025 19:04",
+                                "calendar_date": "12/04/2025 20:13",
                                 "gallery": [
                                     {
                                         "id": 6,
@@ -149,18 +149,6 @@
                                         "order": 4,
                                         "gallery": [
                                             {
-                                                "id": "652",
-                                                "id_pill": "249",
-                                                "slug": "imagen-5",
-                                                "title": "image 5",
-                                                "type": "PHOTO",
-                                                "online_url": null,
-                                                "offline_url": null,
-                                                "video_url": null,
-                                                "image": "media/archive/Imagen5.jpg",
-                                                "weight": 79576
-                                            },
-                                            {
                                                 "id": "653",
                                                 "id_pill": "249",
                                                 "slug": "imagen-6",
@@ -173,7 +161,7 @@
                                                 "weight": 18692
                                             }
                                         ],
-                                        "size": 98268
+                                        "size": 18692
                                     },
                                     {
                                         "title": "THEMATIC DEVELOPMENT",
@@ -724,7 +712,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 17048177
+                                "pill_size": 16968601
                             }
                         ]
                     },
