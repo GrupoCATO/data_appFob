@@ -1,4 +1,31 @@
-[
+Django REST framework
+admin@admin.com 
+Api Root Page Language List
+
+Page Language List
+Api que trae el campo page_metadata
+
+Diccionario Metadata que contiene todos los campos relacionadps a una pagina
+Autorizacion: Si. Paginacion: Si.
+
+Este endpoint puede ser invocado por un web browser o una App movil, retorna un JSON con el diccionario generado para cada pagina
+
+Este endpoint puede recibir como paramteros el id, slug de la pagina y la abreviacion del lenguaje como opcionales para filtrar los resultados independientemente de la paginacion.
+
+Ejemplo:
+
+curl -H 'Authorization: Bearer <ACCESS_TOKEN> ' -X get 'https://domain/api/pagelanguage/?language=ES&pg=3&slug=slug-pagina
+GET /api/pagelanguage/?language=EN&slug=inicio
+HTTP 200 OK
+Allow: GET
+Content-Type: application/json
+Vary: Accept
+
+{
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
         {
             "page_metadata": {
                 "title": "Home",
@@ -751,42 +778,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 11:58",
-                                "calendar_date": "22/04/2025 17:33",
-                                "gallery": [
-                                    {
-                                        "id": 15,
-                                        "slug": "ecoturismo-en-las-reservas-de-la-sociedad-civil",
-                                        "title": "Ecotourism in civil society reserves (Llanero Ranch - Casanare)",
-                                        "type": "TOUR",
-                                        "online_url": null,
-                                        "offline_url": null,
-                                        "video_url": "https://corporinoquitos-bucket.s3.us-east-2.amazonaws.com/media/tours/ecoturismo-en-las-reservas-de-la-sociedad-civil-hato-llanero/tour.json",
-                                        "image": "contents/post_gallery/1.Laguna.jpeg",
-                                        "weight": 4347663
-                                    },
-                                    {
-                                        "id": 28,
-                                        "slug": "estero-del-lipa",
-                                        "title": "Estero de Lipa",
-                                        "type": "VR",
-                                        "online_url": "contents/post_gallery/Estero_del_Lipa_Full_HD.mp4",
-                                        "offline_url": null,
-                                        "video_url": "https://youtu.be/Tz7PkYvYmok",
-                                        "image": "contents/post_gallery/Screenshot_1_49REbHy.png",
-                                        "weight": 185202667
-                                    },
-                                    {
-                                        "id": 29,
-                                        "slug": "laguna-la-primavera",
-                                        "title": "La Primavera Lagoon",
-                                        "type": "VR",
-                                        "online_url": "contents/post_gallery/Laguna_la_primavera_Full_HD.mp4",
-                                        "offline_url": null,
-                                        "video_url": "https://youtu.be/OV4yMsenw8E",
-                                        "image": "contents/post_gallery/Screenshot_2_qJlZqXe.png",
-                                        "weight": 100002114
-                                    }
-                                ],
+                                "calendar_date": "22/04/2025 18:11",
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Plantas_Útiles_y_Comunes_FOB.pdf",
                                 "student": "contents/icon_post/3._Guia_Estudiante-_Plantas_Útiles_y_Comunes_FOB.pdf",
                                 "metadata": "contents/metadata/4._Metadatos_-_Plantas_Útiles_y_Comunes_FOB.pdf",
@@ -1498,7 +1490,7 @@
                                         "weight": 224513
                                     }
                                 ],
-                                "pill_size": 293726916
+                                "pill_size": 4174472
                             }
                         ]
                     },
@@ -9405,3 +9397,4 @@
             }
         }
     ]
+}
