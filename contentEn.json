@@ -40,7 +40,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 08:37",
-                                "calendar_date": "22/04/2025 17:17",
+                                "calendar_date": "23/04/2025 16:13",
                                 "gallery": [
                                     {
                                         "id": 6,
@@ -79,10 +79,10 @@
                                         "order": 2,
                                         "gallery": [
                                             {
-                                                "id": "648",
+                                                "id": "683",
                                                 "id_pill": "247",
-                                                "slug": "imagen-1",
-                                                "title": "Image 1",
+                                                "slug": "muestra-de-plantas",
+                                                "title": "Sample of plants",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
@@ -91,10 +91,10 @@
                                                 "weight": 93184
                                             },
                                             {
-                                                "id": "649",
+                                                "id": "684",
                                                 "id_pill": "247",
-                                                "slug": "imagen-2",
-                                                "title": "Image 2",
+                                                "slug": "paleta-de-plantas",
+                                                "title": "Palette of plants",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
@@ -114,22 +114,22 @@
                                         "order": 3,
                                         "gallery": [
                                             {
-                                                "id": "650",
+                                                "id": "685",
                                                 "id_pill": "248",
-                                                "slug": "imagen-3",
-                                                "title": "image  3",
+                                                "slug": "chaman",
+                                                "title": "Shaman",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
                                                 "image": "media/archive/Imagen3.jpg",
-                                                "weight": 18019
+                                                "weight": 18147
                                             },
                                             {
-                                                "id": "651",
+                                                "id": "686",
                                                 "id_pill": "248",
-                                                "slug": "imagen-4",
-                                                "title": "image 4",
+                                                "slug": "interaccion-entre-culturas",
+                                                "title": "Interaction between cultures",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
@@ -138,7 +138,7 @@
                                                 "weight": 107652
                                             }
                                         ],
-                                        "size": 125671
+                                        "size": 125799
                                     },
                                     {
                                         "title": "THEMATIC DEVELOPMENT",
@@ -149,19 +149,19 @@
                                         "order": 4,
                                         "gallery": [
                                             {
-                                                "id": "653",
+                                                "id": "687",
                                                 "id_pill": "249",
-                                                "slug": "imagen-6",
-                                                "title": "image 6",
+                                                "slug": "dioses",
+                                                "title": "Gods",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen6.jpg",
-                                                "weight": 18692
+                                                "image": "media/archive/Imagen5.jpg",
+                                                "weight": 18707
                                             }
                                         ],
-                                        "size": 18692
+                                        "size": 18707
                                     },
                                     {
                                         "title": "THEMATIC DEVELOPMENT",
@@ -172,31 +172,31 @@
                                         "order": 5,
                                         "gallery": [
                                             {
-                                                "id": "654",
+                                                "id": "688",
                                                 "id_pill": "250",
-                                                "slug": "imagen-7",
-                                                "title": "image 7",
+                                                "slug": "uso-tradicional-de-plantas",
+                                                "title": "Traditional use of plants",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen7.jpg",
-                                                "weight": 16060
+                                                "image": "media/archive/Imagen6.jpg",
+                                                "weight": 56003
                                             },
                                             {
-                                                "id": "655",
+                                                "id": "689",
                                                 "id_pill": "250",
-                                                "slug": "imagen-8",
-                                                "title": "image 8",
+                                                "slug": "sabiduria-indigena",
+                                                "title": "Indigenous wisdom",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen8.png",
+                                                "image": "media/archive/Imagen7.png",
                                                 "weight": 146468
                                             }
                                         ],
-                                        "size": 162528
+                                        "size": 202471
                                     },
                                     {
                                         "title": "THEMATIC DEVELOPMENT",
@@ -207,39 +207,39 @@
                                         "order": 6,
                                         "gallery": [
                                             {
-                                                "id": "656",
+                                                "id": "690",
                                                 "id_pill": "251",
-                                                "slug": "imagen-9",
-                                                "title": "image 9",
+                                                "slug": "manzanilla",
+                                                "title": "Chamomile",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/Imagen8.jpg",
+                                                "weight": 12285
+                                            },
+                                            {
+                                                "id": "691",
+                                                "id_pill": "251",
+                                                "slug": "aloe-vera",
+                                                "title": "Aloe Vera",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
                                                 "image": "media/archive/Imagen9.jpg",
-                                                "weight": 12285
+                                                "weight": 47775
                                             },
                                             {
-                                                "id": "657",
+                                                "id": "692",
                                                 "id_pill": "251",
-                                                "slug": "imagen-10",
-                                                "title": "image 10",
+                                                "slug": "quinina",
+                                                "title": "Quinine",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
                                                 "image": "media/archive/Imagen10.jpg",
-                                                "weight": 47775
-                                            },
-                                            {
-                                                "id": "658",
-                                                "id_pill": "251",
-                                                "slug": "imagen-11",
-                                                "title": "image 11",
-                                                "type": "PHOTO",
-                                                "online_url": null,
-                                                "offline_url": null,
-                                                "video_url": null,
-                                                "image": "media/archive/Imagen11.jpg",
                                                 "weight": 57685
                                             }
                                         ],
@@ -254,31 +254,31 @@
                                         "order": 7,
                                         "gallery": [
                                             {
-                                                "id": "659",
+                                                "id": "693",
                                                 "id_pill": "253",
-                                                "slug": "imagen-12",
-                                                "title": "image 12",
+                                                "slug": "cambio-climatico",
+                                                "title": "Climate Change",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/Imagen11.jpg",
+                                                "weight": 16025
+                                            },
+                                            {
+                                                "id": "694",
+                                                "id_pill": "253",
+                                                "slug": "deforestacion",
+                                                "title": "Deforestation",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
                                                 "image": "media/archive/Imagen12.jpg",
-                                                "weight": 15934
-                                            },
-                                            {
-                                                "id": "660",
-                                                "id_pill": "253",
-                                                "slug": "imagen-13",
-                                                "title": "image 13",
-                                                "type": "PHOTO",
-                                                "online_url": null,
-                                                "offline_url": null,
-                                                "video_url": null,
-                                                "image": "media/archive/Imagen13.jpg",
                                                 "weight": 97340
                                             }
                                         ],
-                                        "size": 113274
+                                        "size": 113365
                                     },
                                     {
                                         "title": "THEMATIC DEVELOPMENT",
@@ -289,27 +289,27 @@
                                         "order": 8,
                                         "gallery": [
                                             {
-                                                "id": "661",
+                                                "id": "695",
                                                 "id_pill": "254",
-                                                "slug": "imagen-14",
-                                                "title": "image 14",
+                                                "slug": "ritual-yage",
+                                                "title": "Yagé Ritual",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/Imagen13.jpg",
+                                                "weight": 10704
+                                            },
+                                            {
+                                                "id": "696",
+                                                "id_pill": "254",
+                                                "slug": "ensenanza-etnobotanica",
+                                                "title": "Ethnobotanical education",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
                                                 "image": "media/archive/Imagen14.jpg",
-                                                "weight": 10704
-                                            },
-                                            {
-                                                "id": "662",
-                                                "id_pill": "254",
-                                                "slug": "imagen-15",
-                                                "title": "image 15",
-                                                "type": "PHOTO",
-                                                "online_url": null,
-                                                "offline_url": null,
-                                                "video_url": null,
-                                                "image": "media/archive/Imagen15.jpg",
                                                 "weight": 87114
                                             }
                                         ],
@@ -324,27 +324,27 @@
                                         "order": 9,
                                         "gallery": [
                                             {
-                                                "id": "663",
+                                                "id": "697",
                                                 "id_pill": "255",
-                                                "slug": "imagen-16",
-                                                "title": "image 16",
+                                                "slug": "saberes-ancestrales",
+                                                "title": "Ancestral Knowledge",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/Imagen15.jpg",
+                                                "weight": 82182
+                                            },
+                                            {
+                                                "id": "698",
+                                                "id_pill": "255",
+                                                "slug": "sierra-nevada-de-santa-marta",
+                                                "title": "Sierra Nevada de Santa Marta",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
                                                 "image": "media/archive/Imagen16.jpg",
-                                                "weight": 82182
-                                            },
-                                            {
-                                                "id": "664",
-                                                "id_pill": "255",
-                                                "slug": "imagen-17",
-                                                "title": "image 17",
-                                                "type": "PHOTO",
-                                                "online_url": null,
-                                                "offline_url": null,
-                                                "video_url": null,
-                                                "image": "media/archive/Imagen17.jpg",
                                                 "weight": 11889
                                             }
                                         ],
@@ -712,7 +712,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 17075216
+                                "pill_size": 17115393
                             }
                         ]
                     },
@@ -751,7 +751,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 11:58",
-                                "calendar_date": "22/04/2025 18:11",
+                                "calendar_date": "23/04/2025 16:37",
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Plantas_Útiles_y_Comunes_FOB.pdf",
                                 "student": "contents/icon_post/3._Guia_Estudiante-_Plantas_Útiles_y_Comunes_FOB.pdf",
                                 "metadata": "contents/metadata/4._Metadatos_-_Plantas_Útiles_y_Comunes_FOB.pdf",
@@ -777,39 +777,39 @@
                                         "order": 2,
                                         "gallery": [
                                             {
-                                                "id": "665",
+                                                "id": "699",
                                                 "id_pill": "297",
-                                                "slug": "galeria-1",
-                                                "title": "Gallery 1",
+                                                "slug": "1-galeria-fob",
+                                                "title": "1. FOB Gallery",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen1.jpg",
+                                                "image": "media/archive/magen1.jpg",
                                                 "weight": 44101
                                             },
                                             {
-                                                "id": "666",
+                                                "id": "700",
                                                 "id_pill": "297",
-                                                "slug": "galeria-2",
-                                                "title": "Gallery 2",
+                                                "slug": "2-galeria-fob",
+                                                "title": "2. FOB Gallery",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen2.jpg",
+                                                "image": "media/archive/magen2.jpg",
                                                 "weight": 46636
                                             },
                                             {
-                                                "id": "667",
+                                                "id": "701",
                                                 "id_pill": "297",
-                                                "slug": "galeria-3",
-                                                "title": "Gallery 3",
+                                                "slug": "3-galeria-fob",
+                                                "title": "3. FOB Gallery",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen3.jpg",
+                                                "image": "media/archive/magen3.jpg",
                                                 "weight": 39444
                                             }
                                         ],
@@ -824,7 +824,7 @@
                                         "order": 3,
                                         "gallery": [
                                             {
-                                                "id": "668",
+                                                "id": "702",
                                                 "id_pill": "298",
                                                 "slug": "moriche",
                                                 "title": "Moriche",
@@ -832,11 +832,11 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen4.jpg",
+                                                "image": "media/archive/magen4.jpg",
                                                 "weight": 26427
                                             },
                                             {
-                                                "id": "669",
+                                                "id": "703",
                                                 "id_pill": "298",
                                                 "slug": "matarraton",
                                                 "title": "Matarratón",
@@ -844,11 +844,11 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen5.jpg",
+                                                "image": "media/archive/magen5.jpg",
                                                 "weight": 69007
                                             },
                                             {
-                                                "id": "670",
+                                                "id": "704",
                                                 "id_pill": "298",
                                                 "slug": "guasimo",
                                                 "title": "Guásimo",
@@ -856,7 +856,7 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen6.jpg",
+                                                "image": "media/archive/magen6.jpg",
                                                 "weight": 64921
                                             }
                                         ],
@@ -871,7 +871,7 @@
                                         "order": 4,
                                         "gallery": [
                                             {
-                                                "id": "671",
+                                                "id": "705",
                                                 "id_pill": "299",
                                                 "slug": "moriche",
                                                 "title": "Moriche",
@@ -879,11 +879,11 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen7.jpg",
+                                                "image": "media/archive/magen7.jpg",
                                                 "weight": 101276
                                             },
                                             {
-                                                "id": "672",
+                                                "id": "706",
                                                 "id_pill": "299",
                                                 "slug": "guasimo",
                                                 "title": "Guásimo",
@@ -891,11 +891,11 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen8.jpg",
+                                                "image": "media/archive/magen8.jpg",
                                                 "weight": 22654
                                             },
                                             {
-                                                "id": "673",
+                                                "id": "707",
                                                 "id_pill": "299",
                                                 "slug": "una-de-gato",
                                                 "title": "Cat's claw",
@@ -903,7 +903,7 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen9.jpg",
+                                                "image": "media/archive/magen9.jpg",
                                                 "weight": 11068
                                             }
                                         ],
@@ -918,7 +918,7 @@
                                         "order": 5,
                                         "gallery": [
                                             {
-                                                "id": "674",
+                                                "id": "708",
                                                 "id_pill": "300",
                                                 "slug": "caruto",
                                                 "title": "Caruto",
@@ -926,11 +926,11 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen10.jpg",
+                                                "image": "media/archive/magen10.jpg",
                                                 "weight": 29418
                                             },
                                             {
-                                                "id": "675",
+                                                "id": "709",
                                                 "id_pill": "300",
                                                 "slug": "bledo",
                                                 "title": "Bledo",
@@ -938,11 +938,11 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen11.jpg",
+                                                "image": "media/archive/magen11.jpg",
                                                 "weight": 48005
                                             },
                                             {
-                                                "id": "676",
+                                                "id": "710",
                                                 "id_pill": "300",
                                                 "slug": "leucanea",
                                                 "title": "Leucanea",
@@ -950,7 +950,7 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen12.jpg",
+                                                "image": "media/archive/magen12.jpg",
                                                 "weight": 59374
                                             }
                                         ],
@@ -965,7 +965,7 @@
                                         "order": 6,
                                         "gallery": [
                                             {
-                                                "id": "677",
+                                                "id": "711",
                                                 "id_pill": "301",
                                                 "slug": "borrachero",
                                                 "title": "Borrachero",
@@ -973,11 +973,11 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen13.jpg",
+                                                "image": "media/archive/magen13.jpg",
                                                 "weight": 40143
                                             },
                                             {
-                                                "id": "678",
+                                                "id": "712",
                                                 "id_pill": "301",
                                                 "slug": "yopo",
                                                 "title": "Yopo",
@@ -985,11 +985,11 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen14.jpg",
+                                                "image": "media/archive/magen14.jpg",
                                                 "weight": 73854
                                             },
                                             {
-                                                "id": "679",
+                                                "id": "713",
                                                 "id_pill": "301",
                                                 "slug": "matarraton",
                                                 "title": "Matarratón",
@@ -997,7 +997,7 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen15.jpg",
+                                                "image": "media/archive/magen15.jpg",
                                                 "weight": 53464
                                             }
                                         ],
@@ -1012,7 +1012,7 @@
                                         "order": 7,
                                         "gallery": [
                                             {
-                                                "id": "680",
+                                                "id": "715",
                                                 "id_pill": "302",
                                                 "slug": "vivero",
                                                 "title": "Nursery",
@@ -1020,7 +1020,7 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen16.png",
+                                                "image": "media/archive/magen16.png",
                                                 "weight": 1032831
                                             }
                                         ],
@@ -1035,7 +1035,7 @@
                                         "order": 8,
                                         "gallery": [
                                             {
-                                                "id": "681",
+                                                "id": "716",
                                                 "id_pill": "303",
                                                 "slug": "indigena-sikuani",
                                                 "title": "Sikuani Indigenous",
@@ -1043,11 +1043,11 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen17.jpg",
+                                                "image": "media/archive/magen17.jpg",
                                                 "weight": 68750
                                             },
                                             {
-                                                "id": "682",
+                                                "id": "717",
                                                 "id_pill": "303",
                                                 "slug": "indigena-guahibo",
                                                 "title": "Guahibo Indigenous",
@@ -1055,7 +1055,7 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen18.jpg",
+                                                "image": "media/archive/magen18.jpg",
                                                 "weight": 52922
                                             }
                                         ],
