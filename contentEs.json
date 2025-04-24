@@ -40,8 +40,19 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 08:37",
-                                "calendar_date": "24/04/2025 12:06",
+                                "calendar_date": "24/04/2025 12:18",
                                 "gallery": [
+                                    {
+                                        "id": 36,
+                                        "slug": "saravena-arauca",
+                                        "title": "Saravena - Arauca",
+                                        "type": "VR",
+                                        "online_url": "contents/post_gallery/Saravena-.mp4",
+                                        "offline_url": null,
+                                        "video_url": null,
+                                        "image": "contents/post_gallery/Saravena.jpg",
+                                        "weight": 97607480
+                                    },
                                     {
                                         "id": 6,
                                         "slug": "plantas-comunes",
@@ -712,7 +723,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 17115393
+                                "pill_size": 114722873
                             }
                         ]
                     },
