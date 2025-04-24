@@ -40,7 +40,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 08:37",
-                                "calendar_date": "23/04/2025 16:13",
+                                "calendar_date": "24/04/2025 11:36",
                                 "gallery": [
                                     {
                                         "id": 6,
@@ -49,7 +49,7 @@
                                         "type": "TOUR",
                                         "online_url": null,
                                         "offline_url": null,
-                                        "video_url": "https://storage.googleapis.com/app-educafob/media/tours/conoce-la-corporacion/conoce-la-corporacionn-.json",
+                                        "video_url": "https://storage.googleapis.com/app-educafob/media/tours/conoce-la-corporacion/conoce-la-corporacion.json",
                                         "image": "contents/post_gallery/1._Parque_Saravena.JPG",
                                         "weight": 14121601
                                     }
@@ -1502,7 +1502,20 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 08:50",
-                                "calendar_date": "23/04/2025 17:35",
+                                "calendar_date": "23/04/2025 19:02",
+                                "gallery": [
+                                    {
+                                        "id": 35,
+                                        "slug": "saravena-arauca",
+                                        "title": "Saravena - Arauca",
+                                        "type": "VR",
+                                        "online_url": "contents/post_gallery/1.Saravena.mp4",
+                                        "offline_url": null,
+                                        "video_url": null,
+                                        "image": "contents/post_gallery/videorandom.png",
+                                        "weight": 15168430
+                                    }
+                                ],
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Cuencas_Vivas.pdf",
                                 "student": "contents/icon_post/3._Guia_Estudiante_-_Cuencas_Vivas.pdf",
                                 "metadata": "contents/metadata/4._Metadatos_-_Cuencas_Vivas.pdf",
@@ -2405,7 +2418,7 @@
                                         "weight": 59729
                                     }
                                 ],
-                                "pill_size": 5483462
+                                "pill_size": 20651892
                             }
                         ]
                     },
