@@ -40,7 +40,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 08:37",
-                                "calendar_date": "24/04/2025 17:29",
+                                "calendar_date": "24/04/2025 17:48",
                                 "gallery": [
                                     {
                                         "id": 36,
@@ -60,7 +60,7 @@
                                         "type": "TOUR",
                                         "online_url": null,
                                         "offline_url": null,
-                                        "video_url": "https://storage.googleapis.com/app-educafob/media/tours/conoce-la-corporacion/conoce-la-corporacion.json",
+                                        "video_url": "https://storage.googleapis.com/app-educafob/media/tours/conoce-la-corporacion/conoce-la-corporacion-.json",
                                         "image": "contents/post_gallery/1._Parque_Saravena.JPG",
                                         "weight": 14121601
                                     }
