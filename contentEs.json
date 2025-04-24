@@ -40,12 +40,12 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 08:37",
-                                "calendar_date": "24/04/2025 11:36",
+                                "calendar_date": "24/04/2025 12:01",
                                 "gallery": [
                                     {
                                         "id": 6,
-                                        "slug": "saravena-arauca",
-                                        "title": "Saravena - Arauca",
+                                        "slug": "plantas-comunes",
+                                        "title": "Plantas Comunes",
                                         "type": "TOUR",
                                         "online_url": null,
                                         "offline_url": null,
@@ -751,7 +751,20 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 11:58",
-                                "calendar_date": "23/04/2025 16:37",
+                                "calendar_date": "24/04/2025 11:55",
+                                "gallery": [
+                                    {
+                                        "id": 33,
+                                        "slug": "saviloe-casero",
+                                        "title": "Saviloe Casero",
+                                        "type": "VR",
+                                        "online_url": "contents/post_gallery/SaviloCasero.mp4",
+                                        "offline_url": null,
+                                        "video_url": null,
+                                        "image": "contents/post_gallery/Saviloe_Casero.jpg",
+                                        "weight": 15259225
+                                    }
+                                ],
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Plantas_Útiles_y_Comunes_FOB.pdf",
                                 "student": "contents/icon_post/3._Guia_Estudiante-_Plantas_Útiles_y_Comunes_FOB.pdf",
                                 "metadata": "contents/metadata/4._Metadatos_-_Plantas_Útiles_y_Comunes_FOB.pdf",
@@ -1463,7 +1476,7 @@
                                         "weight": 224513
                                     }
                                 ],
-                                "pill_size": 4174472
+                                "pill_size": 19433697
                             }
                         ]
                     },
@@ -1502,7 +1515,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 08:50",
-                                "calendar_date": "23/04/2025 19:02",
+                                "calendar_date": "24/04/2025 11:57",
                                 "gallery": [
                                     {
                                         "id": 35,
@@ -1513,7 +1526,7 @@
                                         "offline_url": null,
                                         "video_url": null,
                                         "image": "contents/post_gallery/videorandom.png",
-                                        "weight": 15168430
+                                        "weight": 97561124
                                     }
                                 ],
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Cuencas_Vivas.pdf",
@@ -2418,7 +2431,7 @@
                                         "weight": 59729
                                     }
                                 ],
-                                "pill_size": 20651892
+                                "pill_size": 103044586
                             }
                         ]
                     },
