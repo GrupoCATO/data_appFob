@@ -8,7 +8,7 @@
                     {
                         "title": "“Did you know...” about ethnobotany.",
                         "description": "",
-                        "background_image": "contents/sections/background/primer_pildora.png",
+                        "background_image": "contents/sections/background/1._Pildora.png",
                         "format_image": "contents/sections/membrete.png",
                         "color_section": "#FFFFFFFF",
                         "color_post": "#FFFFFFFF",
@@ -35,12 +35,12 @@
                                 "subtitle": null,
                                 "description": "<p>Ethnobotany studies how cultures have used plants for medicine, food and rituals. Many current remedies come from ancestral knowledge - every plant has a story to discover! 🌱💡</p>",
                                 "slug": "sabias-que-sobre-la-etnobotanica",
-                                "image": "contents/banners/animated_logos/primer_pildora.png",
+                                "image": "contents/banners/animated_logos/1._Pildora.png",
                                 "audio": null,
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 08:37",
-                                "calendar_date": "24/04/2025 17:48",
+                                "calendar_date": "29/04/2025 12:08",
                                 "gallery": [
                                     {
                                         "id": 36,
@@ -723,14 +723,14 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 114722873
+                                "pill_size": 114738799
                             }
                         ]
                     },
                     {
                         "title": "Useful and Common Plants",
                         "description": "",
-                        "background_image": "contents/sections/background/segunda_pildora.png",
+                        "background_image": "contents/sections/background/2._Pildora.png",
                         "format_image": "contents/sections/membrete.png",
                         "color_section": "#FFFFFFFF",
                         "color_post": "#FFFFFFFF",
@@ -757,12 +757,12 @@
                                 "subtitle": null,
                                 "description": "<p>Plants have been fundamental allies in everyday life. From medicinal herbs to essential ingredients in the kitchen, many species provide us with incredible benefits. Discover here some of the most commonly used plants and their multiple uses in health, food and wellness. 🌱✨</p>",
                                 "slug": "plantas-utiles-y-comunes",
-                                "image": "contents/banners/animated_logos/segunda_pildora.png",
+                                "image": "contents/banners/animated_logos/2._Pildora.png",
                                 "audio": null,
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 11:58",
-                                "calendar_date": "24/04/2025 12:07",
+                                "calendar_date": "29/04/2025 12:09",
                                 "gallery": [
                                     {
                                         "id": 33,
@@ -1487,14 +1487,14 @@
                                         "weight": 224513
                                     }
                                 ],
-                                "pill_size": 103782517
+                                "pill_size": 103762486
                             }
                         ]
                     },
                     {
                         "title": "Conservation and awareness",
                         "description": "",
-                        "background_image": "contents/sections/background/tercer_pildora.png",
+                        "background_image": "contents/sections/background/3._Pildora.png",
                         "format_image": "contents/sections/membrete_1.png",
                         "color_section": "#FFFFFFFF",
                         "color_post": "#FFFFFFFF",
@@ -1521,12 +1521,12 @@
                                 "subtitle": null,
                                 "description": "<p>The wisdom of ancient cultures has taught us the value of plants and their importance in our lives. Today, more than ever, it is essential to protect this knowledge and the ecosystems that sustain it. Through the conservation and rescue of endangered species, we can ensure that future generations will continue to benefit from the natural and cultural wealth that surrounds us. 🌎✨</p>",
                                 "slug": "conservacion-y-conciencia",
-                                "image": "contents/banners/animated_logos/tercer_pildora.png",
+                                "image": "contents/banners/animated_logos/3._Pildora.png",
                                 "audio": null,
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 08:50",
-                                "calendar_date": "26/04/2025 18:54",
+                                "calendar_date": "29/04/2025 12:09",
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Conservación_y_conciencia_FOB.pdf",
                                 "student": "contents/icon_post/3._Guia_Estudiante-_Conservación_y_conciencia_FOB.pdf",
                                 "metadata": "contents/metadata/4._Metadatos_-_Conservación_y_conciencia_FOB.pdf",
@@ -2115,14 +2115,14 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 2457853
+                                "pill_size": 2455616
                             }
                         ]
                     },
                     {
                         "title": "E-Comics",
                         "description": "",
-                        "background_image": "contents/sections/background/cuarta_pildora.png",
+                        "background_image": "contents/sections/background/4._E-Comics.png",
                         "format_image": null,
                         "color_section": "#FFFFFFFF",
                         "color_post": "#FFFFFFFF",
