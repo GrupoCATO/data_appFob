@@ -8,7 +8,7 @@
                     {
                         "title": "\"Sabías que...\" sobre la etnobotánica",
                         "description": "",
-                        "background_image": "contents/sections/background/primer_pildora.png",
+                        "background_image": "contents/sections/background/1._Pildora.png",
                         "format_image": "contents/sections/membrete.png",
                         "color_section": "#FFFFFFFF",
                         "color_post": "#FFFFFFFF",
@@ -35,12 +35,12 @@
                                 "subtitle": null,
                                 "description": "<p style=\"text-align:justify\">La <strong>etnobot&aacute;nica</strong> estudia c&oacute;mo las culturas han utilizado las plantas para la medicina, la alimentaci&oacute;n y los rituales. Muchos remedios actuales provienen del conocimiento ancestral. &iexcl;Cada planta tiene una historia por descubrir! 🌱💡</p>",
                                 "slug": "sabias-que-sobre-la-etnobotanica",
-                                "image": "contents/banners/animated_logos/primer_pildora.png",
+                                "image": "contents/banners/animated_logos/1._Pildora.png",
                                 "audio": null,
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 08:37",
-                                "calendar_date": "24/04/2025 17:48",
+                                "calendar_date": "29/04/2025 12:08",
                                 "gallery": [
                                     {
                                         "id": 36,
@@ -723,14 +723,14 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 114722873
+                                "pill_size": 114738799
                             }
                         ]
                     },
                     {
                         "title": "Plantas Útiles y Comunes",
                         "description": "",
-                        "background_image": "contents/sections/background/segunda_pildora.png",
+                        "background_image": "contents/sections/background/2._Pildora.png",
                         "format_image": "contents/sections/membrete.png",
                         "color_section": "#FFFFFFFF",
                         "color_post": "#FFFFFFFF",
@@ -757,12 +757,12 @@
                                 "subtitle": null,
                                 "description": "<p>Las plantas han sido aliadas fundamentales en la vida cotidiana. Desde hierbas medicinales hasta ingredientes esenciales en la cocina, muchas especies nos brindan beneficios incre&iacute;bles. Descubre aqu&iacute; algunas de las plantas m&aacute;s utilizadas y sus m&uacute;ltiples usos en la salud, la alimentaci&oacute;n y el bienestar. 🌱✨</p>",
                                 "slug": "plantas-utiles-y-comunes",
-                                "image": "contents/banners/animated_logos/segunda_pildora.png",
+                                "image": "contents/banners/animated_logos/2._Pildora.png",
                                 "audio": null,
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 11:58",
-                                "calendar_date": "24/04/2025 12:06",
+                                "calendar_date": "29/04/2025 12:09",
                                 "gallery": [
                                     {
                                         "id": 33,
@@ -1487,14 +1487,14 @@
                                         "weight": 224513
                                     }
                                 ],
-                                "pill_size": 103782517
+                                "pill_size": 103762486
                             }
                         ]
                     },
                     {
                         "title": "Conservación y conciencia",
                         "description": "",
-                        "background_image": "contents/sections/background/tercer_pildora.png",
+                        "background_image": "contents/sections/background/3._Pildora.png",
                         "format_image": "contents/sections/membrete_1.png",
                         "color_section": "#FFFFFFFF",
                         "color_post": "#FFFFFFFF",
@@ -1521,12 +1521,12 @@
                                 "subtitle": null,
                                 "description": "<p>La sabidur&iacute;a de las culturas ancestrales nos ha ense&ntilde;ado el valor de las plantas y su importancia en nuestra vida. Hoy, m&aacute;s que nunca, es fundamental proteger este conocimiento y los ecosistemas que lo sustentan. A trav&eacute;s de la conservaci&oacute;n y el rescate de especies en peligro, podemos garantizar que futuras generaciones sigan benefici&aacute;ndose de la riqueza natural y cultural que nos rodea. 🌎✨</p>",
                                 "slug": "conservacion-y-conciencia",
-                                "image": "contents/banners/animated_logos/tercer_pildora.png",
+                                "image": "contents/banners/animated_logos/3._Pildora.png",
                                 "audio": null,
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 08:50",
-                                "calendar_date": "26/04/2025 18:54",
+                                "calendar_date": "29/04/2025 12:09",
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Conservación_y_conciencia_FOB.pdf",
                                 "student": "contents/icon_post/3._Guia_Estudiante-_Conservación_y_conciencia_FOB.pdf",
                                 "metadata": "contents/metadata/4._Metadatos_-_Conservación_y_conciencia_FOB.pdf",
@@ -2115,14 +2115,14 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 2457853
+                                "pill_size": 2455616
                             }
                         ]
                     },
                     {
                         "title": "E-Comics",
                         "description": "",
-                        "background_image": "contents/sections/background/cuarta_pildora.png",
+                        "background_image": "contents/sections/background/4._E-Comics.png",
                         "format_image": null,
                         "color_section": "#FFFFFFFF",
                         "color_post": "#FFFFFFFF",
