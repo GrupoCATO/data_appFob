@@ -1,31 +1,4 @@
-Django REST framework
-admin@admin.com 
-Api Root Page Language List
-
-Page Language List
-Api que trae el campo page_metadata
-
-Diccionario Metadata que contiene todos los campos relacionadps a una pagina
-Autorizacion: Si. Paginacion: Si.
-
-Este endpoint puede ser invocado por un web browser o una App movil, retorna un JSON con el diccionario generado para cada pagina
-
-Este endpoint puede recibir como paramteros el id, slug de la pagina y la abreviacion del lenguaje como opcionales para filtrar los resultados independientemente de la paginacion.
-
-Ejemplo:
-
-curl -H 'Authorization: Bearer <ACCESS_TOKEN> ' -X get 'https://domain/api/pagelanguage/?language=ES&pg=3&slug=slug-pagina
-GET /api/pagelanguage/?language=EN&slug=inicio
-HTTP 200 OK
-Allow: GET
-Content-Type: application/json
-Vary: Accept
-
-{
-    "count": 1,
-    "next": null,
-    "previous": null,
-    "results": [
+[
         {
             "page_metadata": {
                 "title": "Home",
@@ -10037,4 +10010,3 @@ Vary: Accept
             }
         }
     ]
-}
