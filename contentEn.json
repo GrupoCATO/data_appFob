@@ -40,7 +40,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 08:37",
-                                "calendar_date": "06/05/2025 08:53",
+                                "calendar_date": "06/05/2025 14:18",
                                 "gallery": [
                                     {
                                         "id": 36,
@@ -98,7 +98,7 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen1.jpg",
+                                                "image": "media/archive/.Imagen1.jpg",
                                                 "weight": 83878
                                             },
                                             {
@@ -110,7 +110,7 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen2.jpg",
+                                                "image": "media/archive/.Imagen2.jpg",
                                                 "weight": 117368
                                             }
                                         ],
@@ -133,7 +133,7 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen3.jpg",
+                                                "image": "media/archive/.Imagen3.jpg",
                                                 "weight": 68878
                                             },
                                             {
@@ -145,7 +145,7 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen4.jpg",
+                                                "image": "media/archive/.Imagen4.jpg",
                                                 "weight": 109340
                                             }
                                         ],
@@ -168,7 +168,7 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen5.jpg",
+                                                "image": "media/archive/.Imagen5.jpg",
                                                 "weight": 125965
                                             },
                                             {
@@ -180,7 +180,7 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen6.jpg",
+                                                "image": "media/archive/.Imagen6.jpg",
                                                 "weight": 100028
                                             }
                                         ],
@@ -203,7 +203,7 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen7.jpg",
+                                                "image": "media/archive/.Imagen7.jpg",
                                                 "weight": 202734
                                             },
                                             {
@@ -215,7 +215,7 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen8.jpg",
+                                                "image": "media/archive/.Imagen8.jpg",
                                                 "weight": 165161
                                             }
                                         ],
@@ -238,7 +238,7 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen15.png",
+                                                "image": "media/archive/.Imagen15.png",
                                                 "weight": 42186
                                             }
                                         ],
@@ -261,7 +261,7 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen9.jpg",
+                                                "image": "media/archive/.Imagen9.jpg",
                                                 "weight": 91287
                                             },
                                             {
@@ -273,7 +273,7 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen10.jpg",
+                                                "image": "media/archive/.Imagen10.jpg",
                                                 "weight": 108248
                                             }
                                         ],
@@ -296,7 +296,7 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen11.jpg",
+                                                "image": "media/archive/.Imagen11.jpg",
                                                 "weight": 123152
                                             },
                                             {
@@ -308,7 +308,7 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen12.jpg",
+                                                "image": "media/archive/.Imagen12.jpg",
                                                 "weight": 113518
                                             }
                                         ],
@@ -331,7 +331,7 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen13.jpg",
+                                                "image": "media/archive/.Imagen13.jpg",
                                                 "weight": 83395
                                             },
                                             {
@@ -343,7 +343,7 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen14.jpg",
+                                                "image": "media/archive/.Imagen14.jpg",
                                                 "weight": 158440
                                             }
                                         ],
