@@ -1514,7 +1514,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 08:50",
-                                "calendar_date": "29/04/2025 12:09",
+                                "calendar_date": "06/05/2025 15:52",
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Conservación_y_conciencia_FOB.pdf",
                                 "student": "contents/icon_post/3._Guia_Estudiante-_Conservación_y_conciencia_FOB.pdf",
                                 "metadata": "contents/metadata/4._Metadatos_-_Conservación_y_conciencia_FOB.pdf",
@@ -1532,8 +1532,8 @@
                                         "size": 0
                                     },
                                     {
-                                        "title": "INTRODUCCIÓN",
-                                        "content": "<p>La regi&oacute;n de la Orinoqu&iacute;a es una de las m&aacute;s ricas en diversidad biol&oacute;gica y cultural de Colombia. Municipios como <strong>Tame, Saravena y Paz de Ariporo</strong> guardan una enorme variedad de plantas que han sido claves para la vida campesina, ind&iacute;gena y llanera.<br />\r\nLa Fundaci&oacute;n Orinoqu&iacute;a Biodiversa trabaja en esta regi&oacute;n para proteger no solo especies vegetales, sino tambi&eacute;n los conocimientos tradicionales que las acompa&ntilde;an.</p>\r\n\r\n<p>La etnobot&aacute;nica es una forma de reconocer que la sabidur&iacute;a tambi&eacute;n florece con las plantas. Aqu&iacute;, cada hoja, cada ra&iacute;z, cuenta una historia de resistencia, adaptaci&oacute;n y cuidado del territorio.<br />\r\n&nbsp;</p>",
+                                        "title": "Introducción.",
+                                        "content": "<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">La <strong>Orinoqu&iacute;a </strong>es una de las regiones m&aacute;s ricas en diversidad biol&oacute;gica y cultural de Colombia. Municipios como <strong>Tame</strong>, <strong>Saravena </strong>y <strong>Paz de Ariporo</strong> tienen una gran variedad de plantas clave para la vida campesina, ind&iacute;gena y llanera.</span></span></p>\r\n\r\n<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">La <strong>Fundaci&oacute;n Orinoqu&iacute;a Biodiversa</strong> trabaja para proteger estas especies y los conocimientos tradicionales que las acompa&ntilde;an.</span></span></p>\r\n\r\n<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">La <strong>etnobot&aacute;nica </strong>reconoce que la sabidur&iacute;a tambi&eacute;n florece con las plantas. Cada hoja y ra&iacute;z cuenta historias de resistencia, adaptaci&oacute;n y cuidado del territorio.</span></span></p>",
                                         "slug": "slide-2-introduccion",
                                         "type": "2",
                                         "type_comic": "0",
@@ -1542,91 +1542,91 @@
                                             {
                                                 "id": "718",
                                                 "id_pill": "350",
-                                                "slug": "tame-encuentro-internacional-de-morichales",
-                                                "title": "Tame encuentro internacional de Morichales",
+                                                "slug": "galeria",
+                                                "title": "galería",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/-Imagen1.jpg",
-                                                "weight": 130551
+                                                "image": "media/archive/aImagen1.jpg",
+                                                "weight": 64992
                                             }
                                         ],
-                                        "size": 130551
+                                        "size": 64992
                                     },
                                     {
-                                        "title": "DESARROLLO TEMÁTICO",
-                                        "content": "<p>En los Llanos Orientales, la relaci&oacute;n con las plantas va m&aacute;s all&aacute; del uso material. Aqu&iacute; las plantas acompa&ntilde;an la vida cotidiana, los saberes de la abuela y los secretos del monte. Ejemplos:</p>\r\n\r\n<p>- El <strong>Moriche </strong>es m&aacute;s que una palma: es sombra, alimento, material de construcci&oacute;n y s&iacute;mbolo de vida para comunidades ribere&ntilde;as.<br />\r\n- El <strong>Matarrat&oacute;n</strong>, plantado como cerca viva, es tambi&eacute;n medicina para animales y repelente natural.<br />\r\n- El <strong>Gu&aacute;simo</strong>, &aacute;rbol de caminos y patios, es usado para preparar bebidas que alivian la tos y problemas digestivos</p>\r\n\r\n<p>La Fundaci&oacute;n Orinoqu&iacute;a Biodiversa ha acompa&ntilde;ado procesos de registro de este conocimiento y fortalecimiento comunitario en zonas rurales de Arauca y Casanare.</p>",
+                                        "title": "Desarrollo Temático (Historia viva: plantas y pueblos del llano).",
+                                        "content": "<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">En los <strong>Llanos Orientales</strong>, la relaci&oacute;n con las plantas va m&aacute;s all&aacute; de lo material. Son parte de la vida cotidiana, los saberes de la abuela y los secretos del monte. Ejemplos:</span></span></p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>Moriche</strong>: palma que ofrece sombra, alimento, material y es s&iacute;mbolo de vida para comunidades ribere&ntilde;as.</span></span></li>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>Matarrat&oacute;n</strong>: cerca viva, medicina para animales y repelente natural.</span></span></li>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>Gu&aacute;simo</strong>: &aacute;rbol de caminos y patios, usado en bebidas que alivian la tos y problemas digestivos.</span></span></li>\r\n</ul>\r\n\r\n<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">La <strong>Fundaci&oacute;n Orinoqu&iacute;a Biodiversa</strong> apoya el registro de este conocimiento y el fortalecimiento comunitario en zonas rurales de Arauca y Casanare.</span></span></p>",
                                         "slug": "slide-3-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
                                         "order": 3,
                                         "gallery": [
                                             {
-                                                "id": "719",
+                                                "id": "747",
                                                 "id_pill": "351",
-                                                "slug": "moriche",
-                                                "title": "Moriche",
+                                                "slug": "balsamina",
+                                                "title": "BALSAMINA",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/-Imagen2.jpg",
-                                                "weight": 109743
+                                                "image": "media/archive/aImagen3.jpg",
+                                                "weight": 60786
+                                            },
+                                            {
+                                                "id": "748",
+                                                "id_pill": "351",
+                                                "slug": "cafe",
+                                                "title": "CAFE",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/aImagen4.jpg",
+                                                "weight": 74524
+                                            },
+                                            {
+                                                "id": "719",
+                                                "id_pill": "351",
+                                                "slug": "arevalo",
+                                                "title": "AREVALO",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/aImagen2.jpg",
+                                                "weight": 73814
                                             }
                                         ],
-                                        "size": 109743
+                                        "size": 209124
                                     },
                                     {
-                                        "title": "DESARROLLO TEMÁTICO",
-                                        "content": "<p>La vida campesina en la Orinoqu&iacute;a ha dependido hist&oacute;ricamente de plantas locales. Algunas pr&aacute;cticas a&uacute;n vigentes incluyen:</p>\r\n\r\n<p>- Preparaci&oacute;n de jarabes con <strong>Caruto </strong>para curar infecciones en la piel.<br />\r\n- Uso de <strong>U&ntilde;a de Gato</strong> para fortalecer defensas naturales.<br />\r\n- Consumo de <strong>Bledo </strong>en sopas como fuente nutritiva y purificadora.<br />\r\n- Uso de <strong>Sarrapia </strong>en infusiones o como aromatizantes natural.</p>\r\n\r\n<p>La Fundaci&oacute;n Orinoqu&iacute;a Biodiversa promueve la documentaci&oacute;n participativa de estas pr&aacute;cticas, rescatando la sabidur&iacute;a de sabedores rurales y comparti&eacute;ndola con nuevas generaciones.<br />\r\n&nbsp;</p>",
+                                        "title": "Desarrollo Temático (Usos tradicionales: salud, alimentación y prácticas rurales).",
+                                        "content": "",
                                         "slug": "slide-4-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
                                         "order": 4,
                                         "gallery": [
                                             {
-                                                "id": "720",
+                                                "id": "749",
                                                 "id_pill": "352",
-                                                "slug": "caruto",
-                                                "title": "Caruto",
+                                                "slug": "mapa",
+                                                "title": "Mapa",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/-Imagen5.jpg",
-                                                "weight": 16395
-                                            },
-                                            {
-                                                "id": "721",
-                                                "id_pill": "352",
-                                                "slug": "una-de-gato",
-                                                "title": "Uña de gato",
-                                                "type": "PHOTO",
-                                                "online_url": null,
-                                                "offline_url": null,
-                                                "video_url": null,
-                                                "image": "media/archive/-Imagen6.jpg",
-                                                "weight": 14262
-                                            },
-                                            {
-                                                "id": "722",
-                                                "id_pill": "352",
-                                                "slug": "sarrapia",
-                                                "title": "Sarrapia",
-                                                "type": "PHOTO",
-                                                "online_url": null,
-                                                "offline_url": null,
-                                                "video_url": null,
-                                                "image": "media/archive/-Imagen7.jpg",
-                                                "weight": 17121
+                                                "image": "media/archive/aaaaaaaaaaaaImagen5.png",
+                                                "weight": 51770
                                             }
                                         ],
-                                        "size": 47778
+                                        "size": 51770
                                     },
                                     {
-                                        "title": "DESARROLLO TEMÁTICO",
-                                        "content": "<p>En zonas como la altillanura y los piedemontes, muchas plantas &uacute;tiles est&aacute;n desapareciendo debido a:</p>\r\n\r\n<p>- Expansi&oacute;n ganadera y agroindustrial.<br />\r\n- Contaminaci&oacute;n de fuentes h&iacute;dricas.<br />\r\n- Migraci&oacute;n rural y desinter&eacute;s de los j&oacute;venes en lo sabedores del campo.<br />\r\n- Estigmatizaci&oacute;n del conocimiento ancestral.</p>\r\n\r\n<p>Cada vez que se pierde un sabedor, tambi&eacute;n se pierde una historia sobre como sana con una planta o c&oacute;mo sembrar en luna menguante. La <strong>FOB </strong>impulsa acciones comunitarias para frenar esta p&eacute;rdida y fortalecer el di&aacute;logo entre tradici&oacute;n y ciencia.<br />\r\n&nbsp;</p>",
+                                        "title": "Desarrollo Temático (Amenazas actuales: olvido, deforestación y pérdida de saberes).",
+                                        "content": "<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">En la altillanura y piedemonte, muchas plantas &uacute;tiles desaparecen por:</span></span></p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">Expansi&oacute;n ganadera y agroindustrial.</span></span></li>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">Contaminaci&oacute;n de fuentes h&iacute;dricas.</span></span></li>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">Migraci&oacute;n rural y desinter&eacute;s juvenil.</span></span></li>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">Estigmatizaci&oacute;n del saber ancestral.</span></span></li>\r\n</ul>\r\n\r\n<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">Cuando se pierde un sabedor, se pierde tambi&eacute;n un saber. La <strong>FOB </strong>promueve acciones comunitarias para proteger estos conocimientos y unir tradici&oacute;n con ciencia.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p>",
                                         "slug": "slide-5-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
@@ -1635,45 +1635,45 @@
                                             {
                                                 "id": "723",
                                                 "id_pill": "353",
-                                                "slug": "expansion-ganadera",
-                                                "title": "Expansión ganadera",
+                                                "slug": "eucalipto",
+                                                "title": "EUCALIPTO",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/-Imagen12.jpg",
-                                                "weight": 20371
+                                                "image": "media/archive/aImagen9.jpg",
+                                                "weight": 194663
                                             },
                                             {
                                                 "id": "724",
                                                 "id_pill": "353",
-                                                "slug": "contaminacion-de-agua",
-                                                "title": "Contaminación de agua",
+                                                "slug": "flor-de-jamaica",
+                                                "title": "FLOR DE JAMAICA",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/-Imagen14.jpg",
-                                                "weight": 11967
+                                                "image": "media/archive/aImagen10.jpg",
+                                                "weight": 136386
                                             },
                                             {
                                                 "id": "725",
                                                 "id_pill": "353",
-                                                "slug": "migracion-rural",
-                                                "title": "Migración rural",
+                                                "slug": "fresa-china",
+                                                "title": "FRESA CHINA",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/-Imagen13.jpg",
-                                                "weight": 17726
+                                                "image": "media/archive/aImagen11.jpg",
+                                                "weight": 55635
                                             }
                                         ],
-                                        "size": 50064
+                                        "size": 386684
                                     },
                                     {
-                                        "title": "DESARROLLO TEMÁTICO",
-                                        "content": "<p>Desde la Fundaci&oacute;n Orinoqu&iacute;a Biodiversa se lideran procesos de educaci&oacute;n, agroecolog&iacute;a y conservaci&oacute;n con enfoque etnobot&aacute;nico. Algunas iniciativas incluyen:</p>\r\n\r\n<p>- <strong>Huertas escolares</strong> donde ni&ntilde;os aprenden sobre plantas tradicionales.<br />\r\n- <strong>Viveros comunitarios</strong> en fincas campesinas para reproducir especies nativas.<br />\r\n- Apoyo a <strong>Jardines etnobot&aacute;nicos</strong> y bancos de semillas locales.<br />\r\n- Acompa&ntilde;amiento a <strong>Campa&ntilde;as de sensibilizaci&oacute;n</strong> sobre plantas &uacute;tiles y su uso responsable.</p>\r\n\r\n<p>Estas acciones permiten que las comunidades sean protagonistas del cuidado del territorio y garanticen la soberan&iacute;a cultural y alimentaria.<br />\r\n&nbsp;</p>",
+                                        "title": "Desarrollo Temático (Acciones comunitarias para la conservación).",
+                                        "content": "<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">Desde la <strong>Fundaci&oacute;n Orinoqu&iacute;a Biodiversa</strong> se impulsan procesos de educaci&oacute;n y conservaci&oacute;n con enfoque etnobot&aacute;nico:</span></span></p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>Huertas escolares</strong> para ense&ntilde;ar sobre plantas tradicionales.</span></span></li>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>Viveros comunitarios</strong> en fincas campesinas.</span></span></li>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>Jardines etnobot&aacute;nicos</strong> y <strong>bancos de semillas</strong>.</span></span></li>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>Campa&ntilde;as de sensibilizaci&oacute;n</strong> sobre el uso responsable de plantas.</span></span></li>\r\n</ul>\r\n\r\n<p><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">Estas acciones fortalecen la soberan&iacute;a cultural, alimentaria y el cuidado del territorio.</span></span></p>",
                                         "slug": "slide-6-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
@@ -1682,45 +1682,45 @@
                                             {
                                                 "id": "726",
                                                 "id_pill": "354",
-                                                "slug": "huertas-escolares",
-                                                "title": "Huertas Escolares",
+                                                "slug": "hierbabuena",
+                                                "title": "HIERBABUENA",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/-Imagen9.jpg",
-                                                "weight": 20761
+                                                "image": "media/archive/aImagen12.jpg",
+                                                "weight": 21995
                                             },
                                             {
                                                 "id": "727",
                                                 "id_pill": "354",
-                                                "slug": "viveros-comunitarios",
-                                                "title": "Viveros Comunitarios",
+                                                "slug": "limonaria",
+                                                "title": "LIMONARIA",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/-Imagen8.png",
-                                                "weight": 151932
+                                                "image": "media/archive/aImagen13.jpg",
+                                                "weight": 113611
                                             },
                                             {
                                                 "id": "728",
                                                 "id_pill": "354",
-                                                "slug": "jardines-etnobotanicos",
-                                                "title": "Jardines Etnobotánicos",
+                                                "slug": "mango",
+                                                "title": "MANGO",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/-Imagen10.jpg",
-                                                "weight": 28815
+                                                "image": "media/archive/aImagen14.jpg",
+                                                "weight": 281750
                                             }
                                         ],
-                                        "size": 201508
+                                        "size": 417356
                                     },
                                     {
-                                        "title": "DESARROLLO TEMÁTICO",
-                                        "content": "<p>Los sabedores del llano no solo conocen el monte: conversan con &eacute;l. Reconocen las plantas por su olor, por la forma de sus hojas, por el momento en que florecen.<br />\r\nEllas y ellos son quienes:</p>\r\n\r\n<p>- Saben en qu&eacute; parte del bosque se encuentra la planta correcta.<br />\r\n- Ense&ntilde;an con palabras, pero tambi&eacute;n con silencio y observaci&oacute;n.<br />\r\n- Acompa&ntilde;an partos, rituales, curaciones y siembras.</p>\r\n\r\n<p>La <strong>FOB </strong>trabaja en procesos de fortalecimiento de su rol social, reconociendo su importancia en la construcci&oacute;n de paz territorial y sustentabilidad.<br />\r\n&nbsp;</p>",
+                                        "title": "Desarrollo Temático (Guardianes del territorio: sabedores y sabedoras).",
+                                        "content": "<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">Los sabedores del llano no solo conocen el monte: dialogan con &eacute;l. Reconocen plantas por su olor, hojas y floraci&oacute;n. Son quienes:</span></span></p>\r\n\r\n<ul>\r\n\t<li>Saben d&oacute;nde encontrar la planta adecuada.</li>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">Ense&ntilde;an con la palabra y el ejemplo.</span></span></li>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">Acompa&ntilde;an partos, rituales y curaciones.</span></span></li>\r\n</ul>\r\n\r\n<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">La FOB apoya el fortalecimiento de su rol como pilares de paz y sostenibilidad territorial.</span></span></p>",
                                         "slug": "slide-7-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
@@ -1729,17 +1729,17 @@
                                             {
                                                 "id": "729",
                                                 "id_pill": "355",
-                                                "slug": "fundacion-orinoquia-biodiversa",
-                                                "title": "Fundación Orinoquía Biodiversa",
+                                                "slug": "manzanito",
+                                                "title": "MANZANITO",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/-Imagen11.png",
-                                                "weight": 10233
+                                                "image": "media/archive/aImagen15.jpg",
+                                                "weight": 29586
                                             }
                                         ],
-                                        "size": 10233
+                                        "size": 29586
                                     },
                                     {
                                         "title": "Ejercicio Práctico",
@@ -2103,7 +2103,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 2455616
+                                "pill_size": 3065251
                             }
                         ]
                     },
