@@ -40,7 +40,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 08:37",
-                                "calendar_date": "29/04/2025 12:08",
+                                "calendar_date": "06/05/2025 08:53",
                                 "gallery": [
                                     {
                                         "id": 36,
@@ -82,284 +82,272 @@
                                         "size": 0
                                     },
                                     {
-                                        "title": "INTRODUCCIÓN",
-                                        "content": "<p style=\"text-align:justify\"><strong>&ldquo;&iquest;Sab&iacute;as que Colombia, uno de los pa&iacute;ses m&aacute;s biodiversos del mundo alberga miles de especies de plantas con usos tradicionales documentados por comunidades ind&iacute;genas?&rdquo;. </strong>La etnobot&aacute;nica es una ciencia fascinante que estudia como las personas, desde tiempos ancestrales, han utilizado las plantas en su vida cotidiana: como medicina, alimento, herramienta, s&iacute;mbolo espiritual y mucho m&aacute;s. Este conocimiento ha sido transmitido oralmente a lo largo de generaciones, formando parte fundamental de la identidad cultural de comunidades ind&iacute;genas, afrodescendientes y campesinas en Colombia y Am&eacute;rica Latina. En esta p&iacute;ldora, descubrir&aacute;s curiosidades, historias sorprendentes y ejemplos concretos del uso tradicional de las plantas en nuestro pa&iacute;s, resaltando la conexi&oacute;n entre naturaleza y cultura.</p>",
+                                        "title": "Introducción (Bienvenida al mundo de la etnobotánica).",
+                                        "content": "<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>&ldquo;&iquest;Sab&iacute;as que Colombia, uno de los pa&iacute;ses m&aacute;s biodiversos del mundo alberga miles de especies de plantas con usos tradicionales documentados por comunidades ind&iacute;genas?&rdquo;.</strong> </span></span></p>\r\n\r\n<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">La etnobot&aacute;nica estudia el uso ancestral de las plantas en la vida cotidiana, destacando su valor medicinal, alimenticio, simb&oacute;lico y cultural. Este conocimiento, transmitido oralmente, es clave en la identidad de comunidades ind&iacute;genas, afrodescendientes y campesinas en Colombia y Am&eacute;rica Latina. En esta p&iacute;ldora, descubrir&aacute;s curiosidades, historias sorprendentes y ejemplos concretos del uso tradicional de las plantas en nuestro pa&iacute;s, resaltando la conexi&oacute;n entre naturaleza y cultura.</span></span></p>",
                                         "slug": "slide-2-introduccion",
                                         "type": "2",
                                         "type_comic": "0",
                                         "order": 2,
                                         "gallery": [
                                             {
-                                                "id": "683",
+                                                "id": "730",
                                                 "id_pill": "247",
-                                                "slug": "muestra-de-plantas",
-                                                "title": "Muestra de plantas",
+                                                "slug": "acetaminofen-coleus-comosus",
+                                                "title": "Acetaminofen-Coleus comosus",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
                                                 "image": "media/archive/Imagen1.jpg",
-                                                "weight": 93184
+                                                "weight": 83878
                                             },
                                             {
-                                                "id": "684",
+                                                "id": "731",
                                                 "id_pill": "247",
-                                                "slug": "paleta-de-plantas",
-                                                "title": "Paleta de plantas",
+                                                "slug": "aji-pequeno",
+                                                "title": "Ají pequeño",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
                                                 "image": "media/archive/Imagen2.jpg",
-                                                "weight": 20032
+                                                "weight": 117368
                                             }
                                         ],
-                                        "size": 113216
+                                        "size": 201246
                                     },
                                     {
-                                        "title": "DESARROLLO TEMÁTICO",
-                                        "content": "<p style=\"text-align:justify\">Ethnobotany is a scientific discipline that combines botany with anthropology, focusing on how human communities use plants. This science was pioneered by researchers such as Richard Evans Schultes, considered the <strong>&ldquo;Father of ethnobotany&rdquo;</strong>, who conducted extensive studies in the Colombian Amazon in the 20th century, documenting the use of hallucinogenic and medicinal plants by tribes such as the <strong>Tukano</strong> and <strong>Witoto</strong>.&nbsp;<br />\r\nIn Colombia, thanks to its geographic location and cultural diversity, there are more than 80 ethnic groups that manage a vast botanical knowledge that is still being studied today. Ethnobotany not only rescues ancestral knowledge, but also promotes respect for the cultural and biological heritage of peoples.&nbsp;</p>",
+                                        "title": "Desarrollo Temático (¿Qué es la etnobotánica?).",
+                                        "content": "<p style=\"text-align:justify\"><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">La etnobot&aacute;nica estudia el uso ancestral de las plantas como medicina, alimento y s&iacute;mbolo cultural, siendo clave en la identidad de comunidades ind&iacute;genas, afrodescendientes y campesinas en Colombia. Impulsada por <strong>Richard Evans Schultes </strong>considerado &ldquo;Padre de la Etnobot&aacute;nica&rdquo;, quien investig&oacute; en la Amazon&iacute;a colombiana el uso de plantas medicinales y alucin&oacute;genas por pueblos como los <strong>Tukano</strong> y los <strong>Witoto</strong>, esta disciplina valora el conocimiento bot&aacute;nico de m&aacute;s de 80 grupos &eacute;tnicos y promueve el respeto por el patrimonio cultural y natural.</span></span></p>",
                                         "slug": "slide-3-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
                                         "order": 3,
                                         "gallery": [
                                             {
-                                                "id": "685",
+                                                "id": "732",
                                                 "id_pill": "248",
-                                                "slug": "chaman",
-                                                "title": "Chaman",
+                                                "slug": "algodon-gossypium-hirsutum",
+                                                "title": "Algodón- Gossypium hirsutum",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
                                                 "image": "media/archive/Imagen3.jpg",
-                                                "weight": 18147
+                                                "weight": 68878
                                             },
                                             {
-                                                "id": "686",
+                                                "id": "733",
                                                 "id_pill": "248",
-                                                "slug": "interaccion-entre-culturas",
-                                                "title": "Interacción entre culturas",
+                                                "slug": "borojo-alibertia-patinoi",
+                                                "title": "Borojo-Alibertia patinoi",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
                                                 "image": "media/archive/Imagen4.jpg",
-                                                "weight": 107652
+                                                "weight": 109340
                                             }
                                         ],
-                                        "size": 125799
+                                        "size": 178218
                                     },
                                     {
-                                        "title": "DESARROLLO TEMÁTICO",
-                                        "content": "<p style=\"text-align:justify\">Las culturas precolombinas desarrollaron complejos sistemas de clasificaci&oacute;n y uso de plantas que a&uacute;n perduran. Por ejemplo, los <strong>Muiscas</strong> utilizaban el fique para fabricar cuerdas y tejidos, la coca para rituales sagrados y el ma&iacute;z como alimento central de su dieta.&nbsp;<br />\r\nEn la <strong>Sierra Nevada de Santa Marta</strong>, los <strong>Kogui</strong> y <strong>Arhuacos</strong> mantienen una visi&oacute;n espiritual del mundo vegetal, considerando a las plantas como &ldquo;hermanas&rdquo; que hablan, sienten y ense&ntilde;an. Las plantas eran utilizadas no solo por sus propiedades f&iacute;sicas, sino tambi&eacute;n por su simbolog&iacute;a espiritual: una planta pod&iacute;a proteger contra energ&iacute;as negativas, atraer la buena suerte o ayudar en la toma de decisiones importantes.</p>",
+                                        "title": "Desarrollo Temático (Relación entre plantas y culturas ancestrales).",
+                                        "content": "<p style=\"text-align:justify\"><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">Las culturas precolombinas desarrollaron sistemas de uso y clasificaci&oacute;n de plantas que a&uacute;n perduran. Los Muiscas usaban el fique para fabricar cuerdas, la coca en rituales sagrados y el ma&iacute;z como alimento base de su dieta. En la <strong>Sierra Nevada de Santa Marta</strong>, los <strong>Kogui</strong> y <strong>Arhuacos</strong> ven a las plantas como seres espirituales que ense&ntilde;an y protegen, valor&aacute;ndolas tanto por sus propiedades f&iacute;sicas como simb&oacute;licas.</span></span></p>",
                                         "slug": "slide-4-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
                                         "order": 4,
                                         "gallery": [
                                             {
-                                                "id": "687",
+                                                "id": "734",
                                                 "id_pill": "249",
-                                                "slug": "dioses",
-                                                "title": "Dioses",
+                                                "slug": "citronela-cymbopogon-nardus",
+                                                "title": "Citronela- Cymbopogon nardus",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
                                                 "image": "media/archive/Imagen5.jpg",
-                                                "weight": 18707
+                                                "weight": 125965
+                                            },
+                                            {
+                                                "id": "735",
+                                                "id_pill": "249",
+                                                "slug": "coca-erythroxylum-gracilipes",
+                                                "title": "Coca-Erythroxylum gracilipes",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/Imagen6.jpg",
+                                                "weight": 100028
                                             }
                                         ],
-                                        "size": 18707
+                                        "size": 225993
                                     },
                                     {
-                                        "title": "DESARROLLO TEMÁTICO",
-                                        "content": "<p style=\"text-align:justify\">Las comunidades ind&iacute;genas poseen una cosmovisi&oacute;n &uacute;nica que integra lo natural con lo espiritual. Cada planta tiene un esp&iacute;ritu y un prop&oacute;sito. Por ejemplo, la <strong>Yag&eacute; (Ayahuasca)</strong> es considerado por los pueblos amaz&oacute;nicos como una planta maestra que ense&ntilde;a y gu&iacute;a a trav&eacute;s de visiones. El conocimiento de qu&eacute; planta usar, como prepararla y cu&aacute;ndo recolectarla se transmite por medio de rituales, cantos y pr&aacute;cticas tradicionales.<br />\r\nEn Colombia, se han documentado m&aacute;s de 6.000 especies vegetales como uso tradicional, muchas de las cuales a&uacute;n no han sido estudiadas por la ciencia. Este saber ancestral est&aacute; en riesgo debido a la perdida de lenguajes ind&iacute;genas y la occidentalizaci&oacute;n de las nuevas generaciones.&nbsp;</p>",
+                                        "title": "Desarrollo Temático (Sabiduría indígena y el uso tradicional de las plantas).",
+                                        "content": "<p style=\"text-align:justify\"><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">Las comunidades ind&iacute;genas integran lo natural y lo espiritual, atribuyendo a cada planta un esp&iacute;ritu y un prop&oacute;sito. Por ejemplo, la <strong>Yag&eacute; (Ayahuasca) </strong>es visto como una planta maestra que ense&ntilde;a y gu&iacute;a a trav&eacute;s de visiones. El conocimiento sobre su uso se transmite mediante rituales y cantos. En Colombia, se han registrado m&aacute;s de 6.000 especies de uso tradicional, muchas a&uacute;n no estudiadas por la ciencia, pero este saber ancestral est&aacute; en riesgo por la p&eacute;rdida de lenguas y la influencia occidental.</span></span></p>",
                                         "slug": "slide-5-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
                                         "order": 5,
                                         "gallery": [
                                             {
-                                                "id": "688",
+                                                "id": "736",
                                                 "id_pill": "250",
-                                                "slug": "uso-tradicional-de-plantas",
-                                                "title": "Uso tradicional de plantas",
+                                                "slug": "espinaca-basella-alba",
+                                                "title": "Espinaca-Basella alba",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen6.jpg",
-                                                "weight": 56003
+                                                "image": "media/archive/Imagen7.jpg",
+                                                "weight": 202734
                                             },
                                             {
-                                                "id": "689",
+                                                "id": "737",
                                                 "id_pill": "250",
-                                                "slug": "sabiduria-indigena",
-                                                "title": "Sabiduría indígena",
+                                                "slug": "guanabana-annona-muricata",
+                                                "title": "Guanabana-Annona muricata",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen7.png",
-                                                "weight": 146468
+                                                "image": "media/archive/Imagen8.jpg",
+                                                "weight": 165161
                                             }
                                         ],
-                                        "size": 202471
+                                        "size": 367895
                                     },
                                     {
-                                        "title": "DESARROLLO TEMÁTICO",
-                                        "content": "<p style=\"text-align:justify\">Muchas plantas que hoy se usan en la medicina moderna fueron descubiertas gracias al conocimiento tradicional. Ejemplo:<br />\r\n<strong>- El Borrachero (Brugmansia):</strong> ha sido utilizada por los chamanes para inducir estados alterados de conciencia, pero tambi&eacute;n tiene riesgos por su toxicidad.<br />\r\n<strong>- Aloe Vera:</strong> conocida por sus propiedades cicatrizante y antiinflamatorias.<br />\r\n<strong>- Manzanilla:</strong> utilizada para problemas digestivos y para aliviar la ansiedad.<br />\r\n<strong>- La U&ntilde;a de Gato:</strong> usada en la Amazon&iacute;a, ha mostrado propiedades antiinflamatorias que hoy son estudiadas en laboratorios.<br />\r\n<strong>- Quinina:</strong> extra&iacute;da de la corteza del quino, es un antipal&uacute;dico efectivo.<br />\r\nUn mito com&uacute;n es que &ldquo;si es natural, no hace da&ntilde;o&rdquo;, pero muchas plantas pueden ser peligrosas si no se preparan correctamente. La ciencia actual colabora con comunidades para validar estos saberes y asegurar su uso seguro.</p>",
+                                        "title": "Desarrollo Temático (Plantas medicinales: mitos y realidades).",
+                                        "content": "",
                                         "slug": "slide-6-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
                                         "order": 6,
                                         "gallery": [
                                             {
-                                                "id": "690",
+                                                "id": "738",
                                                 "id_pill": "251",
-                                                "slug": "manzanilla",
-                                                "title": "Manzanilla",
+                                                "slug": "planta-medicinales-mitos-y-realidades",
+                                                "title": "Planta medicinales: mitos y realidades",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen8.jpg",
-                                                "weight": 12285
-                                            },
-                                            {
-                                                "id": "691",
-                                                "id_pill": "251",
-                                                "slug": "aloe-vera",
-                                                "title": "Aloe Vera",
-                                                "type": "PHOTO",
-                                                "online_url": null,
-                                                "offline_url": null,
-                                                "video_url": null,
-                                                "image": "media/archive/Imagen9.jpg",
-                                                "weight": 47775
-                                            },
-                                            {
-                                                "id": "692",
-                                                "id_pill": "251",
-                                                "slug": "quinina",
-                                                "title": "Quinina",
-                                                "type": "PHOTO",
-                                                "online_url": null,
-                                                "offline_url": null,
-                                                "video_url": null,
-                                                "image": "media/archive/Imagen10.jpg",
-                                                "weight": 57685
+                                                "image": "media/archive/Imagen15.png",
+                                                "weight": 42186
                                             }
                                         ],
-                                        "size": 117745
+                                        "size": 42186
                                     },
                                     {
-                                        "title": "DESARROLLO TEMÁTICO",
-                                        "content": "<p>Colombia es el segundo pa&iacute;s m&aacute;s biodiverso del mundo, y gran parte de su flora est&aacute; en territorios ind&iacute;genas y campesinos. Al conservar estos territorios, tambi&eacute;n se protege el conocimiento tradicional asociado a sus plantas. La etnobot&aacute;nica permite documentar ese conocimiento antes de que desaparezca, especialmente en comunidades donde los ancianos son los &uacute;nicos portadores del saber.&nbsp;<br />\r\nOrganizaciones y universidades trabajan con comunidades para crear jardines etnobot&aacute;nicos, bancos de semillas y programas de educaci&oacute;n ambiental. Ejemplo, el <strong>Jard&iacute;n Etnobot&aacute;nico del Instituto SINCHI en Leticia, Amazonas</strong> donde se conservan m&aacute;s de 200 especies utilizadas por pueblos ind&iacute;genas.</p>",
+                                        "title": "Desarrollo Temático (Etnobotánica y conservación de la biodiversidad).",
+                                        "content": "<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">Colombia, segundo pa&iacute;s m&aacute;s biodiverso del mundo, alberga gran parte de su flora en territorios ind&iacute;genas y campesinos. Conservar estos territorios protege tambi&eacute;n el saber tradicional. La etnobot&aacute;nica documenta ese conocimiento antes de que desaparezca, especialmente en comunidades donde los ancianos son los &uacute;nicos portadores del saber. &nbsp;Iniciativas como jardines etnobot&aacute;nicos, bancos de semillas y educaci&oacute;n ambiental, como el <strong>Jard&iacute;n Etnobot&aacute;nico del Instituto SINCHI en Leticia, Amazonas</strong> ayudan a preservar este legado.</span></span></p>",
                                         "slug": "slide-7-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
                                         "order": 7,
                                         "gallery": [
                                             {
-                                                "id": "693",
+                                                "id": "739",
                                                 "id_pill": "253",
-                                                "slug": "cambio-climatico",
-                                                "title": "Cambio Climático",
+                                                "slug": "rinones",
+                                                "title": "Riñones",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen11.jpg",
-                                                "weight": 16025
+                                                "image": "media/archive/Imagen9.jpg",
+                                                "weight": 91287
                                             },
                                             {
-                                                "id": "694",
+                                                "id": "740",
                                                 "id_pill": "253",
-                                                "slug": "deforestacion",
-                                                "title": "Deforestación",
+                                                "slug": "te",
+                                                "title": "Té",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen12.jpg",
-                                                "weight": 97340
+                                                "image": "media/archive/Imagen10.jpg",
+                                                "weight": 108248
                                             }
                                         ],
-                                        "size": 113365
+                                        "size": 199535
                                     },
                                     {
-                                        "title": "DESARROLLO TEMÁTICO",
-                                        "content": "<p style=\"text-align:justify\">La espiritualidad ind&iacute;gena est&aacute; profundamente conectada con las plantas. En muchas culturas, son consideradas &ldquo;seres con esp&iacute;ritu&rdquo; que ayudan en la sanaci&oacute;n y conexi&oacute;n con lo divino. La coca, la yuca dulce y el yag&eacute; son consideradas plantas sagradas en muchas comunidades colombianas, usadas en rituales de iniciaci&oacute;n, sanaci&oacute;n o contacto con los ancestros.<br />\r\nEn los rituales <strong>Kogui</strong>, por ejemplo, las hojas de coca se mastican durante la &ldquo;mambeada&rdquo;, mientras se conversa sobre la armon&iacute;a del mundo. El respeto por estas plantas tambi&eacute;n implica rituales de siembra, cuidado y cosecha con intenci&oacute;n espiritual. Estas pr&aacute;cticas est&aacute;n siendo reconocidas en espacios acad&eacute;micos y legales como parte del patrimonio cultural inmaterial de Colombia.</p>",
+                                        "title": "Desarrollo Temático (Plantas sagradas en diferentes culturas).",
+                                        "content": "<p style=\"text-align:justify\"><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">La espiritualidad ind&iacute;gena est&aacute; estrechamente ligada a las plantas, vistas como &ldquo;seres con esp&iacute;ritu&rdquo; que ayudan en la sanaci&oacute;n y conexi&oacute;n con lo divino. En Colombia, plantas sagradas como la coca, la yuca dulce y el yag&eacute; se usan en rituales de sanaci&oacute;n y conexi&oacute;n con los ancestros. En ceremonias como la &ldquo;mambeada&rdquo; <strong>Kogui</strong>, la coca se mastica en reflexiones espirituales. Estas pr&aacute;cticas, ligadas al respeto y cuidado de las plantas, hoy son reconocidas como patrimonio cultural inmaterial.</span></span></p>",
                                         "slug": "slide-8-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
                                         "order": 8,
                                         "gallery": [
                                             {
-                                                "id": "695",
+                                                "id": "741",
                                                 "id_pill": "254",
-                                                "slug": "ritual-yage",
-                                                "title": "Ritual Yagé",
+                                                "slug": "toronja-grande",
+                                                "title": "Toronja grande",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen13.jpg",
-                                                "weight": 10704
+                                                "image": "media/archive/Imagen11.jpg",
+                                                "weight": 123152
                                             },
                                             {
-                                                "id": "696",
+                                                "id": "742",
                                                 "id_pill": "254",
-                                                "slug": "ensenanza-etnobotanica",
-                                                "title": "Enseñanza etnobotánica",
+                                                "slug": "vaporub-coleus-hadiensis",
+                                                "title": "Vaporub-Coleus hadiensis",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen14.jpg",
-                                                "weight": 87114
+                                                "image": "media/archive/Imagen12.jpg",
+                                                "weight": 113518
                                             }
                                         ],
-                                        "size": 97818
+                                        "size": 236670
                                     },
                                     {
-                                        "title": "DESARROLLO TEMÁTICO",
-                                        "content": "<p>En muchas comunidades colombianas, el conocimiento sobre las plantas lo poseen personas mayores conocidas como sabedores, curanderos o chamanes. Estos gu&iacute;as espirituales aprenden desde ni&ntilde;os a observar, recolectar y preparar plantas, guiadas por sus sue&ntilde;os, visiones y la ense&ntilde;anza directa de sus mayores. En la cultura <strong>Uitoto</strong>, por ejemplo, se considera que una planta debe ser &ldquo;pedida&rdquo; al bosque, mostrando respeto y gratitud al recolectarla.<br />\r\nLa figura del curandero ha sido estigmatizada por la sociedad moderna, pero hoy en d&iacute;a hay un movimiento de revalorizaci&oacute;n de estos saberes como patrimonio vivo. La preservaci&oacute;n de este conocimiento depende del di&aacute;logo intercultural y el reconocimiento legal y social de los derechos de los pueblos originarios.<br />\r\n&nbsp;</p>",
+                                        "title": "Desarrollo Temático (Curanderos, chamanes y la transmisión del conocimiento).",
+                                        "content": "<p><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">En muchas comunidades colombianas, el conocimiento de las plantas lo poseen las personas mayores conocidas como sabedores, curanderos o chamanes, quienes aprenden desde ni&ntilde;os guiados por sue&ntilde;os y ense&ntilde;anzas ancestrales. En la cultura <strong>Uitoto</strong>, por ejemplo, se &ldquo;pide&rdquo; permiso al bosque antes de recolectar una planta. Aunque la figura del curandero fue estigmatizada, hoy se reconoce su valor como patrimonio vivo, cuya preservaci&oacute;n requiere di&aacute;logo intercultural y reconocimiento de los derechos ind&iacute;genas.</span></span></p>",
                                         "slug": "slide-9-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
                                         "order": 9,
                                         "gallery": [
                                             {
-                                                "id": "697",
+                                                "id": "743",
                                                 "id_pill": "255",
-                                                "slug": "saberes-ancestrales",
-                                                "title": "Saberes Ancestrales",
+                                                "slug": "verbena-paraguay-scoparia-dulcis",
+                                                "title": "Verbena, Paraguay-Scoparia dulcis",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen15.jpg",
-                                                "weight": 82182
+                                                "image": "media/archive/Imagen13.jpg",
+                                                "weight": 83395
                                             },
                                             {
-                                                "id": "698",
+                                                "id": "744",
                                                 "id_pill": "255",
-                                                "slug": "sierra-nevada-de-santa-marta",
-                                                "title": "Sierra Nevada de Santa Marta",
+                                                "slug": "aguacate-persea-amaricana",
+                                                "title": "AGUACATE-persea amaricana",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/Imagen16.jpg",
-                                                "weight": 11889
+                                                "image": "media/archive/Imagen14.jpg",
+                                                "weight": 158440
                                             }
                                         ],
-                                        "size": 94071
+                                        "size": 241835
                                     },
                                     {
                                         "title": "Ejercicio Práctico",
@@ -402,8 +390,8 @@
                                         "size": 0
                                     },
                                     {
-                                        "title": "CONCLUSIONES",
-                                        "content": "<p>La etnobot&aacute;nica nos recuerda que el conocimiento sobre las plantas no solo es cient&iacute;fico, sino tambi&eacute;n cultural y espiritual. A trav&eacute;s del estudio de las plantas y sus usos tradicionales, comprendemos mejor la historia, la medicina y la identidad de los pueblos. Preservar este saber ancestral es vital para enfrentar desaf&iacute;os actuales como la p&eacute;rdida de biodiversidad y la b&uacute;squeda de soluciones sostenibles.<br />\r\nValorar la sabidur&iacute;a ind&iacute;gena y promover el di&aacute;logo entre ciencia y tradici&oacute;n nos abre nuevas posibilidades para un futuro m&aacute;s consciente y respetuoso con la naturaleza.</p>",
+                                        "title": "Conclusión (Conclusiones acerca de la píldora).",
+                                        "content": "<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">La etnobot&aacute;nica nos recuerda que el conocimiento de las plantas no es s&oacute;lo cient&iacute;fico, sino tambi&eacute;n cultural y espiritual. A trav&eacute;s del estudio de las plantas y sus usos tradicionales, comprendemos mejor la historia, la medicina y la identidad de los pueblos. Preservar estos conocimientos ancestrales es vital para afrontar retos actuales como la p&eacute;rdida de biodiversidad y la b&uacute;squeda de soluciones sostenibles.<br />\r\nValorar la sabidur&iacute;a ind&iacute;gena y promover el di&aacute;logo entre ciencia y tradici&oacute;n abre nuevas posibilidades para un futuro m&aacute;s consciente y respetuoso con la naturaleza.</span></span></p>",
                                         "slug": "slide-11-conclusiones",
                                         "type": "2",
                                         "type_comic": "0",
@@ -723,7 +711,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 114738799
+                                "pill_size": 115549185
                             }
                         ]
                     },
