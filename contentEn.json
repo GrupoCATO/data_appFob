@@ -1,4 +1,31 @@
-[
+Django REST framework
+admin@admin.com 
+Api Root Page Language List
+
+Page Language List
+Api que trae el campo page_metadata
+
+Diccionario Metadata que contiene todos los campos relacionadps a una pagina
+Autorizacion: Si. Paginacion: Si.
+
+Este endpoint puede ser invocado por un web browser o una App movil, retorna un JSON con el diccionario generado para cada pagina
+
+Este endpoint puede recibir como paramteros el id, slug de la pagina y la abreviacion del lenguaje como opcionales para filtrar los resultados independientemente de la paginacion.
+
+Ejemplo:
+
+curl -H 'Authorization: Bearer <ACCESS_TOKEN> ' -X get 'https://domain/api/pagelanguage/?language=ES&pg=3&slug=slug-pagina
+GET /api/pagelanguage/?language=EN&slug=inicio
+HTTP 200 OK
+Allow: GET
+Content-Type: application/json
+Vary: Accept
+
+{
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
         {
             "page_metadata": {
                 "title": "Home",
@@ -1514,7 +1541,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 08:50",
-                                "calendar_date": "29/04/2025 12:09",
+                                "calendar_date": "06/05/2025 15:52",
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Conservación_y_conciencia_FOB.pdf",
                                 "student": "contents/icon_post/3._Guia_Estudiante-_Conservación_y_conciencia_FOB.pdf",
                                 "metadata": "contents/metadata/4._Metadatos_-_Conservación_y_conciencia_FOB.pdf",
@@ -1532,8 +1559,8 @@
                                         "size": 0
                                     },
                                     {
-                                        "title": "INTRODUCTION",
-                                        "content": "<p>The Orinoco region is one of the richest in biological and cultural diversity in Colombia. Municipalities such as <strong>Tame, Saravena and Paz de Ariporo</strong> hold an enormous variety of plants that have been key to peasant, indigenous and llanero life.<br />\r\nFundaci&oacute;n Orinoqu&iacute;a Biodiversa works in this region to protect not only plant species, but also the traditional knowledge that accompanies them.</p>\r\n\r\n<p>Ethnobotany is a way of recognizing that wisdom also flourishes with plants. Here, each leaf, each root, tells a story of resistance, adaptation and care of the territory.</p>",
+                                        "title": "Introduction.",
+                                        "content": "<p>The <strong>Orinoco </strong>is one of the richest regions in Colombia in terms of biological and cultural diversity. Municipalities such as <strong>Tame</strong>, <strong>Saravena </strong>and <strong>Paz de Ariporo</strong> have a great variety of key plants for peasant, indigenous and llanero life.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />\r\n<strong>Fundaci&oacute;n Orinoqu&iacute;a Biodiversa</strong> works to protect these species and the traditional knowledge that accompanies them.</p>\r\n\r\n<p><strong>Ethnobotany </strong>recognizes that wisdom also flourishes with plants. Each leaf and root tells stories of resistance, adaptation and care of the territory.</p>",
                                         "slug": "slide-2-introduccion",
                                         "type": "2",
                                         "type_comic": "0",
@@ -1542,91 +1569,91 @@
                                             {
                                                 "id": "718",
                                                 "id_pill": "350",
-                                                "slug": "tame-encuentro-internacional-de-morichales",
-                                                "title": "Tame international meeting of Morichales",
+                                                "slug": "galeria",
+                                                "title": "galery",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/-Imagen1.jpg",
-                                                "weight": 130551
+                                                "image": "media/archive/aImagen1.jpg",
+                                                "weight": 64992
                                             }
                                         ],
-                                        "size": 130551
+                                        "size": 64992
                                     },
                                     {
-                                        "title": "THEMATIC DEVELOPMENT",
-                                        "content": "<p>In the Eastern Plains, the relationship with plants goes beyond material use. Here, plants accompany daily life, grandmother&#39;s knowledge and the secrets of the forest. Examples:</p>\r\n\r\n<p>- The <strong>Moriche </strong>is more than a palm: it is shade, food, construction material and a symbol of life for riverside communities.<br />\r\n- The <strong>Matarrat&oacute;n</strong>, planted as a living fence, is also medicine for animals and a natural repellent.<br />\r\n- The <strong>Gu&aacute;simo</strong>, a tree of roads and patios, is used to prepare drinks that alleviate coughs and digestive problems.</p>\r\n\r\n<p>Fundaci&oacute;n Orinoqu&iacute;a Biodiversa has accompanied processes of registration of this knowledge and community strengthening in rural areas of Arauca and Casanare.</p>",
+                                        "title": "Desarrollo Temático (Historia viva: plantas y pueblos del llano).",
+                                        "content": "<p>In the <strong>Eastern Plains</strong>, the relationship with plants goes beyond the material. They are part of daily life, grandmother&#39;s knowledge and the secrets of the forest. Examples:</p>\r\n\r\n<ul>\r\n\t<li><strong>Moriche</strong>: palm that offers shade, food, material and is a symbol of life for riverside communities.</li>\r\n\t<li><strong>Matarrat&oacute;n</strong>: living fence, medicine for animals and natural repellent.</li>\r\n\t<li><strong>Gu&aacute;simo</strong>: tree of roads and patios, used in drinks that relieve coughs and digestive problems.</li>\r\n</ul>\r\n\r\n<p>Fundaci&oacute;n Orinoqu&iacute;a Biodiversa supports the registration of this knowledge and community strengthening in rural areas of Arauca and Casanare.</p>",
                                         "slug": "slide-3-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
                                         "order": 3,
                                         "gallery": [
                                             {
-                                                "id": "719",
+                                                "id": "747",
                                                 "id_pill": "351",
-                                                "slug": "moriche",
-                                                "title": "Moriche",
+                                                "slug": "balsamina",
+                                                "title": "BALSAMINA",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/-Imagen2.jpg",
-                                                "weight": 109743
+                                                "image": "media/archive/aImagen3.jpg",
+                                                "weight": 60786
+                                            },
+                                            {
+                                                "id": "748",
+                                                "id_pill": "351",
+                                                "slug": "cafe",
+                                                "title": "CAFE",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/aImagen4.jpg",
+                                                "weight": 74524
+                                            },
+                                            {
+                                                "id": "719",
+                                                "id_pill": "351",
+                                                "slug": "arevalo",
+                                                "title": "AREVALO",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/aImagen2.jpg",
+                                                "weight": 73814
                                             }
                                         ],
-                                        "size": 109743
+                                        "size": 209124
                                     },
                                     {
-                                        "title": "THEMATIC DEVELOPMENT",
-                                        "content": "<p>Peasant life in the Orinoco region has historically depended on local plants. Some practices still in use include:</p>\r\n\r\n<p>- Preparation of syrups with <strong>Caruto </strong>to cure skin infections.<br />\r\n- Use of <strong>Cat&#39;s Claw</strong> to strengthen natural defenses.<br />\r\n- Consumption of <strong>Bledo </strong>in soups as a nutritious and purifying source.<br />\r\n- Use of <strong>Sarrapia </strong>in infusions or as natural flavoring.</p>\r\n\r\n<p>The Orinoco Biodiversa Foundation promotes the participatory documentation of these practices, rescuing the wisdom of rural wise people and sharing it with new generations.</p>",
+                                        "title": "Desarrollo Temático (Usos tradicionales: salud, alimentación y prácticas rurales).",
+                                        "content": "",
                                         "slug": "slide-4-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
                                         "order": 4,
                                         "gallery": [
                                             {
-                                                "id": "720",
+                                                "id": "749",
                                                 "id_pill": "352",
-                                                "slug": "caruto",
-                                                "title": "Caruto",
+                                                "slug": "mapa",
+                                                "title": "Map",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/-Imagen5.jpg",
-                                                "weight": 16395
-                                            },
-                                            {
-                                                "id": "721",
-                                                "id_pill": "352",
-                                                "slug": "una-de-gato",
-                                                "title": "Cat's claw",
-                                                "type": "PHOTO",
-                                                "online_url": null,
-                                                "offline_url": null,
-                                                "video_url": null,
-                                                "image": "media/archive/-Imagen6.jpg",
-                                                "weight": 14262
-                                            },
-                                            {
-                                                "id": "722",
-                                                "id_pill": "352",
-                                                "slug": "sarrapia",
-                                                "title": "Sarrapia",
-                                                "type": "PHOTO",
-                                                "online_url": null,
-                                                "offline_url": null,
-                                                "video_url": null,
-                                                "image": "media/archive/-Imagen7.jpg",
-                                                "weight": 17121
+                                                "image": "media/archive/aaaaaaaaaaaaImagen5.png",
+                                                "weight": 51770
                                             }
                                         ],
-                                        "size": 47778
+                                        "size": 51770
                                     },
                                     {
-                                        "title": "THEMATIC DEVELOPMENT",
-                                        "content": "<p>In areas such as the highlands and foothills, many useful plants are disappearing due to:</p>\r\n\r\n<p>- Livestock and agro-industrial expansion.<br />\r\n- Contamination of water sources.<br />\r\n- Rural migration and disinterest of young people in rural knowledge.<br />\r\n- Stigmatization of ancestral knowledge.</p>\r\n\r\n<p>Every time a wise person is lost, a story about how to heal with a plant or how to sow in a waning moon is also lost. <strong>FOB </strong>promotes community actions to stop this loss and strengthen the dialogue between tradition and science.</p>",
+                                        "title": "Thematic Development (Current threats: oblivion, deforestation and loss of knowledge).",
+                                        "content": "<p>In the highlands and foothills, many useful plants disappear due to:</p>\r\n\r\n<ul>\r\n\t<li>Livestock and agro-industrial expansion.</li>\r\n\t<li>Contamination of water sources.</li>\r\n\t<li>Rural migration and youth disinterest.</li>\r\n\t<li>Stigmatization of ancestral knowledge.</li>\r\n</ul>\r\n\r\n<p>When a knower is lost, knowledge is also lost. FOB promotes community actions to protect this knowledge and unite tradition with science. &nbsp; &nbsp; &nbsp;</p>",
                                         "slug": "slide-5-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
@@ -1635,45 +1662,45 @@
                                             {
                                                 "id": "723",
                                                 "id_pill": "353",
-                                                "slug": "expansion-ganadera",
-                                                "title": "Livestock expansion",
+                                                "slug": "eucalipto",
+                                                "title": "EUCALIPTO",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/-Imagen12.jpg",
-                                                "weight": 20371
+                                                "image": "media/archive/aImagen9.jpg",
+                                                "weight": 194663
                                             },
                                             {
                                                 "id": "724",
                                                 "id_pill": "353",
-                                                "slug": "contaminacion-de-agua",
-                                                "title": "Water contamination",
+                                                "slug": "flor-de-jamaica",
+                                                "title": "FLOR DE JAMAICA",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/-Imagen14.jpg",
-                                                "weight": 11967
+                                                "image": "media/archive/aImagen10.jpg",
+                                                "weight": 136386
                                             },
                                             {
                                                 "id": "725",
                                                 "id_pill": "353",
-                                                "slug": "migracion-rural",
-                                                "title": "Rural migration",
+                                                "slug": "fresa-china",
+                                                "title": "FRESA CHINA",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/-Imagen13.jpg",
-                                                "weight": 17726
+                                                "image": "media/archive/aImagen11.jpg",
+                                                "weight": 55635
                                             }
                                         ],
-                                        "size": 50064
+                                        "size": 386684
                                     },
                                     {
-                                        "title": "THEMATIC DEVELOPMENT",
-                                        "content": "<p>The Orinoqu&iacute;a Biodiversa Foundation leads processes of education, agroecology and conservation with an ethnobotanical approach. Some initiatives include:</p>\r\n\r\n<p>- <strong>School gardens</strong> where children learn about traditional plants.<br />\r\n- <strong>Community nurseries</strong> in peasant farms to reproduce native species.<br />\r\n- Support to <strong>ethnobotanical gardens</strong> and local seed banks.<br />\r\n- Accompanying awareness <strong>campaigns on useful</strong> plants and their responsible use.</p>\r\n\r\n<p>These actions allow communities to be protagonists in the care of the territory and guarantee cultural and food sovereignty.</p>",
+                                        "title": "Thematic Development (Community actions for conservation).",
+                                        "content": "<p>Fundaci&oacute;n Orinoqu&iacute;a Biodiversa promotes education and conservation processes with an ethnobotanical approach:</p>\r\n\r\n<ul>\r\n\t<li><strong>School gardens</strong> to teach about traditional plants.</li>\r\n\t<li><strong>Community nurseries</strong> in peasant farms.</li>\r\n\t<li><strong>Ethnobotanical gardens</strong> and <strong>seed banks</strong>.</li>\r\n\t<li><strong>Awareness campaigns</strong> on the responsible use of plants.</li>\r\n</ul>\r\n\r\n<p>These actions strengthen cultural and food sovereignty and care for the territory.</p>",
                                         "slug": "slide-6-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
@@ -1682,45 +1709,45 @@
                                             {
                                                 "id": "726",
                                                 "id_pill": "354",
-                                                "slug": "huertas-escolares",
-                                                "title": "School Gardens",
+                                                "slug": "hierbabuena",
+                                                "title": "HIERBABUENA",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/-Imagen9.jpg",
-                                                "weight": 20761
+                                                "image": "media/archive/aImagen12.jpg",
+                                                "weight": 21995
                                             },
                                             {
                                                 "id": "727",
                                                 "id_pill": "354",
-                                                "slug": "viveros-comunitarios",
-                                                "title": "Community Nurseries",
+                                                "slug": "limonaria",
+                                                "title": "LIMONARIA",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/-Imagen8.png",
-                                                "weight": 151932
+                                                "image": "media/archive/aImagen13.jpg",
+                                                "weight": 113611
                                             },
                                             {
                                                 "id": "728",
                                                 "id_pill": "354",
-                                                "slug": "jardines-etnobotanicos",
-                                                "title": "Ethnobotanical Gardens",
+                                                "slug": "mango",
+                                                "title": "MANGO",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/-Imagen10.jpg",
-                                                "weight": 28815
+                                                "image": "media/archive/aImagen14.jpg",
+                                                "weight": 281750
                                             }
                                         ],
-                                        "size": 201508
+                                        "size": 417356
                                     },
                                     {
-                                        "title": "THEMATIC DEVELOPMENT",
-                                        "content": "<p>The wise men of the plains not only know the bush: they converse with it. They recognize the plants by their smell, by the shape of their leaves, by the moment they bloom.<br />\r\nThey are who they are:</p>\r\n\r\n<p>- They know where in the forest the right plant is.<br />\r\n- They teach with words, but also with silence and observation.<br />\r\n- They accompany births, rituals, healing and planting.</p>\r\n\r\n<p>The <strong>FOB </strong>works in processes of strengthening its social role, recognizing its importance in the construction of territorial peace and sustainability.<br />\r\n&nbsp;</p>",
+                                        "title": "Thematic Development (Guardians of the territory: wise men and women).",
+                                        "content": "<p>The savants of the plains not only know the bush: they dialogue with it. They recognize plants by their smell, leaves and flowering. They are who:</p>\r\n\r\n<ul>\r\n\t<li>They know where to find the right plant.</li>\r\n\t<li>They teach by word and example.</li>\r\n\t<li>They accompany births, rituals and healings.</li>\r\n</ul>\r\n\r\n<p>FOB supports the strengthening of their role as pillars of peace and territorial sustainability.</p>",
                                         "slug": "slide-7-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
@@ -1729,17 +1756,17 @@
                                             {
                                                 "id": "729",
                                                 "id_pill": "355",
-                                                "slug": "fundacion-orinoquia-biodiversa",
-                                                "title": "Orinoco Biodiversa Foundation",
+                                                "slug": "manzanito",
+                                                "title": "MANZANITO",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/-Imagen11.png",
-                                                "weight": 10233
+                                                "image": "media/archive/aImagen15.jpg",
+                                                "weight": 29586
                                             }
                                         ],
-                                        "size": 10233
+                                        "size": 29586
                                     },
                                     {
                                         "title": "Practical Exercise",
@@ -2103,7 +2130,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 2455616
+                                "pill_size": 3065251
                             }
                         ]
                     },
@@ -10010,3 +10037,4 @@
             }
         }
     ]
+}
