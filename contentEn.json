@@ -750,8 +750,19 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 11:58",
-                                "calendar_date": "29/04/2025 12:09",
+                                "calendar_date": "07/05/2025 11:48",
                                 "gallery": [
+                                    {
+                                        "id": 37,
+                                        "slug": "plantas-gastronomicas",
+                                        "title": "Gastronomic Plants",
+                                        "type": "TOUR",
+                                        "online_url": null,
+                                        "offline_url": null,
+                                        "video_url": "https://storage.googleapis.com/app-educafob/media/tours/colegios-amigos-del-medio-ambiente/plantas-gastronomicas.json",
+                                        "image": "contents/post_gallery/2._Jardin_1_moringas.JPG",
+                                        "weight": 15509607
+                                    },
                                     {
                                         "id": 33,
                                         "slug": "saviloe-casero",
@@ -781,8 +792,8 @@
                                         "size": 0
                                     },
                                     {
-                                        "title": "INTRODUCTION",
-                                        "content": "<p style=\"text-align:justify\">Colombia is one of the richest countries in biodiversity, and within its regions, the Eastern Plains, where municipalities such as <strong>Tame</strong>, <strong>Yopal </strong>and <strong>Saravena </strong>are located, are home to a variety of plants that have accompanied human life since ancient times.<br />\r\nIn these territories, plants have not only been used as food or medicine, but also as construction materials, ritual elements and components of the cultural identity of indigenous people, peasants and wise men.<br />\r\nTo learn about these plants is also to understand the history, tradition and present of the region.</p>",
+                                        "title": "Introduction.",
+                                        "content": "<p style=\"text-align:justify\">Colombia is a country of great biodiversity, and within its regions, the Eastern Plains - with municipalities such as <strong>Tame</strong>, <strong>Yopal</strong> and <strong>Saravena</strong> - are home to plants that have accompanied communities since ancient times. These are used not only as food or medicine, but also in rituals, constructions and cultural practices. To know them is to understand the history and identity of the region.</p>",
                                         "slug": "slide-2-introduccion",
                                         "type": "2",
                                         "type_comic": "0",
@@ -797,8 +808,8 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen1.jpg",
-                                                "weight": 44101
+                                                "image": "media/archive/..Imagen1.jpg",
+                                                "weight": 24362
                                             },
                                             {
                                                 "id": "700",
@@ -809,8 +820,8 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen2.jpg",
-                                                "weight": 46636
+                                                "image": "media/archive/..Imagen2.jpg",
+                                                "weight": 77650
                                             },
                                             {
                                                 "id": "701",
@@ -821,15 +832,15 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen3.jpg",
-                                                "weight": 39444
+                                                "image": "media/archive/..Imagen3.jpg",
+                                                "weight": 137339
                                             }
                                         ],
-                                        "size": 130181
+                                        "size": 239351
                                     },
                                     {
-                                        "title": "THEMATIC DEVELOPMENT",
-                                        "content": "<p style=\"text-align:justify\">Among the main causes of biodiversity loss are fragmentation (loss of continuity of an ecosystem), degradation (loss of natural environmental conditions) and loss of natural connectivity caused by the expansion of the agricultural frontier, changes in land use, deforestation and overexploitation of natural resources. Given this scenario, maintaining ecosystems and the natural connectivity between them becomes an essential task for the conservation of biodiversity and the services it provides.</p>\r\n\r\n<p style=\"text-align:justify\"><br />\r\nAmong the strategies that Corporinoquia has considered for the conservation of bio-diversity is the creation of protected areas, which must be complemented with specific actions that guarantee the functionality of the landscapes (matrix) in which they are inserted, so that they maintain connectivity and the flow of energy and services, one of these actions are the biological corridors.</p>",
+                                        "title": "Thematic Development (What are useful plants?).",
+                                        "content": "<p>Useful plants have been used to cover basic needs such as health, food and culture. In municipalities such as <strong>Tame</strong>, <strong>Yopal </strong>and <strong>Saravena</strong>, traditional species are used:</p>\r\n\r\n<ul>\r\n\t<li><strong>Moriche</strong> (Mauritia flexuosa): yields sweet fruits, juices and fibers for roofing and handicrafts.</li>\r\n\t<li><strong>Matarrat&oacute;n (Gliricidia sepium)</strong>: used in fences, as shade and as a remedy for bites.</li>\r\n\t<li><strong>Cuj&iacute; (Prosopis juliflora)</strong>: its wood is firewood, its fruits feed animals and its thorns delimit land.</li>\r\n\t<li><strong>Gu&aacute;simo (Guazuma ulmifolia)</strong>: leaves for stomach ailments and fruits for beverages.</li>\r\n</ul>\r\n\r\n<p>These plants have allowed the llaneros to adapt to the savannah and rivers.</p>",
                                         "slug": "slide-3-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
@@ -844,8 +855,8 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen4.jpg",
-                                                "weight": 26427
+                                                "image": "media/archive/..Imagen4.jpg",
+                                                "weight": 118778
                                             },
                                             {
                                                 "id": "703",
@@ -856,8 +867,8 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen5.jpg",
-                                                "weight": 69007
+                                                "image": "media/archive/..Imagen5.jpg",
+                                                "weight": 100147
                                             },
                                             {
                                                 "id": "704",
@@ -868,15 +879,15 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen6.jpg",
-                                                "weight": 64921
+                                                "image": "media/archive/..Imagen6.jpg",
+                                                "weight": 173237
                                             }
                                         ],
-                                        "size": 160355
+                                        "size": 392162
                                     },
                                     {
                                         "title": "THEMATIC DEVELOPMENT",
-                                        "content": "<p>The plain has taught its inhabitants to observe and understand plants as life companions. For example:</p>\r\n\r\n<p>- <strong>Moriche </strong>is not only consumed; in many hamlets its palms are transformed into resistant and cool roofs, ideal for the hot climate of <strong>Tame </strong>and <strong>Saravena</strong>.<br />\r\n- The <strong>Gu&aacute;simo </strong>is known for its fruits, which when boiled produce a drink that relieves coughs and respiratory infections.<br />\r\n- The <strong>Cat&#39;s Claw</strong> is collected by the wise men of the villages and used as an infusion to strengthen defenses.</p>\r\n\r\n<p>In every farm, every road and every path in the plains, there is a plant that is part of daily life, teaching people to live with respect and balance with their environment.</p>",
+                                        "content": "<p>The plain has taught its inhabitants to see plants as life companions. For example:</p>\r\n\r\n<ul>\r\n\t<li><strong>Moriche</strong>: its palms are used as cool roofs, ideal for the hot climate of Tame and Saravena.</li>\r\n\t<li><strong>Gu&aacute;simo</strong>: its boiled fruits relieve coughs and respiratory problems.</li>\r\n\t<li><strong>U&ntilde;a de Gato</strong> (Cat&#39;s Claw): collected in the trails and used as an infusion to strengthen defenses.</li>\r\n</ul>\r\n\r\n<p>Each plant in the plains teaches to live with respect and balance with nature.</p>",
                                         "slug": "slide-4-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
@@ -891,8 +902,8 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen7.jpg",
-                                                "weight": 101276
+                                                "image": "media/archive/..Imagen7.jpg",
+                                                "weight": 63858
                                             },
                                             {
                                                 "id": "706",
@@ -903,8 +914,8 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen8.jpg",
-                                                "weight": 22654
+                                                "image": "media/archive/..Imagen8.jpg",
+                                                "weight": 97081
                                             },
                                             {
                                                 "id": "707",
@@ -915,15 +926,15 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen9.jpg",
-                                                "weight": 11068
+                                                "image": "media/archive/..Imagen9.jpg",
+                                                "weight": 68519
                                             }
                                         ],
-                                        "size": 134998
+                                        "size": 229458
                                     },
                                     {
                                         "title": "THEMATIC DEVELOPMENT",
-                                        "content": "<p>The knowledge about useful plants does not come from books or laboratories, but from the experience that grandmothers, grandfathers and wise men have accumulated by observing nature.&nbsp;</p>\r\n\r\n<p>Some plants and their traditional uses:&nbsp;</p>\r\n\r\n<p>- <strong>Caruto (Genipa americana):</strong> its fruits are used as a natural dye for skin and textiles, and its leaves are used in healing infusions.<br />\r\n- <strong>Bledo (Amaranthus sp.):</strong> its leaves are eaten in stews and soups, and it is known to be nutritious and medicinal.<br />\r\n- <strong>Leucaena (Leucaena leucocephala):</strong> forage tree that is also a source of organic fertilizer.<br />\r\n- <strong>Sarrapia (Dipteryx odorata):</strong> a sweet aroma is extracted from the seed, used in perfumery and also in homemade medicines to soothe coughs.</p>\r\n\r\n<p>This knowledge is still common in villages, especially in rural areas where the connection with the land is part of daily life.</p>",
+                                        "content": "<p>The knowledge of useful plants comes from the experience of grandmothers, grandfathers and wise men who have observed nature for generations.</p>\r\n\r\n<p>Some plants and their traditional uses:</p>\r\n\r\n<ul>\r\n\t<li><strong>Caruto (Genipa americana):</strong> its fruits serve as a natural dye, and its leaves as a healing infusion.</li>\r\n\t<li><strong>Bledo (Amaranthus sp.):</strong> nutritious leaves used in soups and stews.</li>\r\n\t<li><strong>Leucaena (Leucaena leucocephala):</strong> forage tree and source of organic fertilizer.</li>\r\n\t<li><strong>Sarrapia (Dipteryx odorata):</strong> its seed produces a sweet aroma used in perfumes and home remedies.</li>\r\n</ul>\r\n\r\n<p><br />\r\nThis knowledge is still alive in the villages where the connection with the land is still a daily occurrence.</p>",
                                         "slug": "slide-5-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
@@ -938,8 +949,8 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen10.jpg",
-                                                "weight": 29418
+                                                "image": "media/archive/..Imagen10.jpg",
+                                                "weight": 69784
                                             },
                                             {
                                                 "id": "709",
@@ -950,8 +961,8 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen11.jpg",
-                                                "weight": 48005
+                                                "image": "media/archive/..Imagen11.jpg",
+                                                "weight": 88778
                                             },
                                             {
                                                 "id": "710",
@@ -962,15 +973,15 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen12.jpg",
-                                                "weight": 59374
+                                                "image": "media/archive/..Imagen12.jpg",
+                                                "weight": 127055
                                             }
                                         ],
-                                        "size": 136797
+                                        "size": 285617
                                     },
                                     {
-                                        "title": "THEMATIC DEVELOPMENT",
-                                        "content": "<p>In the plain there is a repeated phrase: &ldquo;if it is bush, it is good and does no harm&rdquo; - however, not all plants are harmless. For example:</p>\r\n\r\n<p>- <strong>Borrachero (Brugmansia)</strong> is often seen in fences, gardens and yards. Its flowers are showy, but its psychotropic properties can be dangerous if not handled with knowledge.<br />\r\n- <strong>Matarrat&oacute;n</strong>, although used as a living fence and natural insect repellent, can cause intoxication if improperly prepared for consumption.<br />\r\n- <strong>Yopo</strong>, a seed used in indigenous rituals, induces deep visions but should only be used under spiritual guidance.</p>\r\n\r\n<p>This knowledge is not only tradition, it is also a tool for self-care and survival in rural areas.</p>",
+                                        "title": "Thematic Development (Myths and realities).",
+                                        "content": "<p>In the plains they say: &ldquo;if it&#39;s bush, it&#39;s good&rdquo;, but not all plants are harmless. For example:</p>\r\n\r\n<ul>\r\n\t<li><strong>Borrachero (Brugmansia):</strong> common in gardens, has dangerous psychotropic properties if used without knowledge.</li>\r\n\t<li><strong>Matarrat&oacute;n</strong>: useful as a fence and repellent, but badly prepared it can intoxicate.</li>\r\n\t<li><strong>Yopo</strong>: seed used in indigenous rituals that induces visions; should only be used with spiritual guidance.</li>\r\n</ul>\r\n\r\n<p>This knowledge is key to self-care and rural survival.</p>",
                                         "slug": "slide-6-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
@@ -985,8 +996,8 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen13.jpg",
-                                                "weight": 40143
+                                                "image": "media/archive/..Imagen13.jpg",
+                                                "weight": 97522
                                             },
                                             {
                                                 "id": "712",
@@ -997,8 +1008,8 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen14.jpg",
-                                                "weight": 73854
+                                                "image": "media/archive/..Imagen14.jpg",
+                                                "weight": 95584
                                             },
                                             {
                                                 "id": "713",
@@ -1009,69 +1020,57 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen15.jpg",
-                                                "weight": 53464
+                                                "image": "media/archive/..Imagen15.jpg",
+                                                "weight": 186216
                                             }
                                         ],
-                                        "size": 167461
+                                        "size": 379322
                                     },
                                     {
-                                        "title": "THEMATIC DEVELOPMENT",
-                                        "content": "<p>Livestock expansion, intensive agriculture and urban growth have reduced the populations of useful plants in <strong>Tame</strong>, <strong>Yopal</strong> and <strong>Saravena</strong>.</p>\r\n\r\n<p>However, many initiatives seek to protect them:</p>\r\n\r\n<p>- <strong>Community and school nurseries</strong>, where children and young people learn to plant and care for useful plants.<br />\r\n- <strong>Home gardens and model farms</strong>, where crops are combined with medicinal and forage plants.<br />\r\n- Programs for the recovery of <strong>Morichales </strong>and reforestation of riverside areas to protect water sources and biodiversity.</p>\r\n\r\n<p>Conserving these plants is key not only to protect nature, but also to keep alive the customs and well-being of the communities.</p>",
+                                        "title": "Thematic Development (Ethnobotany and biodiversity conservation).",
+                                        "content": "<p>Cattle ranching, intensive agriculture and urbanization have reduced the useful plants in <strong>Tame</strong>, <strong>Yopal </strong>and <strong>Saravena</strong>.</p>\r\n\r\n<p>But there are initiatives that seek to protect them:</p>\r\n\r\n<ul>\r\n\t<li><strong>Community and school nurseries:</strong> teach children and young people how to grow and care for plants.</li>\r\n\t<li><strong>Home gardens and model farms: </strong>combine basic crops with medicinal and forage plants.</li>\r\n\t<li><strong>Moriche recovery and reforestation</strong>: help conserve water and biodiversity.</li>\r\n</ul>\r\n\r\n<p>Preserving them is essential to care for nature and maintain traditions.</p>",
                                         "slug": "slide-7-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
                                         "order": 7,
                                         "gallery": [
                                             {
-                                                "id": "715",
+                                                "id": "745",
                                                 "id_pill": "302",
-                                                "slug": "vivero",
-                                                "title": "Nursery",
+                                                "slug": "galeria",
+                                                "title": "galery",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen16.png",
-                                                "weight": 1032831
+                                                "image": "media/archive/..Imagen16.jpg",
+                                                "weight": 48048
                                             }
                                         ],
-                                        "size": 1032831
+                                        "size": 48048
                                     },
                                     {
-                                        "title": "THEMATIC DEVELOPMENT",
-                                        "content": "<p>In the Eastern Plains, the connection with plants is not only physical, but also spiritual:</p>\r\n\r\n<p>- <strong>Yopo </strong>has been used by peoples such as the <strong>Sikuani </strong>and <strong>Guahibo </strong>as a bridge of communication with the world of dreams and the spirit.<br />\r\n- The <strong>Moriche</strong>, besides being a source of food and material, is called the &ldquo;tree of life&rdquo; because the balance of animals, water and human beings depends on it.<br />\r\n- <strong>Guayusa </strong>and <strong>Caruto </strong>accompany rituals of initiation, healing and gratitude to nature.</p>\r\n\r\n<p>These plants are respected not only for their usefulness but also for their cultural significance.</p>",
+                                        "title": "Thematic Development (Sacred plants: identity and spirituality).",
+                                        "content": "",
                                         "slug": "slide-8-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
                                         "order": 8,
                                         "gallery": [
                                             {
-                                                "id": "716",
+                                                "id": "746",
                                                 "id_pill": "303",
-                                                "slug": "indigena-sikuani",
-                                                "title": "Sikuani Indigenous",
+                                                "slug": "mapa",
+                                                "title": "map",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen17.jpg",
-                                                "weight": 68750
-                                            },
-                                            {
-                                                "id": "717",
-                                                "id_pill": "303",
-                                                "slug": "indigena-guahibo",
-                                                "title": "Guahibo Indigenous",
-                                                "type": "PHOTO",
-                                                "online_url": null,
-                                                "offline_url": null,
-                                                "video_url": null,
-                                                "image": "media/archive/magen18.jpg",
-                                                "weight": 52922
+                                                "image": "media/archive/..Imagen17.png",
+                                                "weight": 43733
                                             }
                                         ],
-                                        "size": 121672
+                                        "size": 43733
                                     },
                                     {
                                         "title": "THEMATIC DEVELOPMENT",
@@ -1475,7 +1474,7 @@
                                         "weight": 224513
                                     }
                                 ],
-                                "pill_size": 103762486
+                                "pill_size": 119005489
                             }
                         ]
                     },
