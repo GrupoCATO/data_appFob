@@ -750,8 +750,19 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 11:58",
-                                "calendar_date": "29/04/2025 12:09",
+                                "calendar_date": "07/05/2025 11:48",
                                 "gallery": [
+                                    {
+                                        "id": 37,
+                                        "slug": "plantas-gastronomicas",
+                                        "title": "Plantas Gastronómicas",
+                                        "type": "TOUR",
+                                        "online_url": null,
+                                        "offline_url": null,
+                                        "video_url": "https://storage.googleapis.com/app-educafob/media/tours/colegios-amigos-del-medio-ambiente/plantas-gastronomicas.json",
+                                        "image": "contents/post_gallery/2._Jardin_1_moringas.JPG",
+                                        "weight": 15509607
+                                    },
                                     {
                                         "id": 33,
                                         "slug": "saviloe-casero",
@@ -781,8 +792,8 @@
                                         "size": 0
                                     },
                                     {
-                                        "title": "INTRODUCCIÓN",
-                                        "content": "<p style=\"text-align:justify\">Colombia es uno de los pa&iacute;ses m&aacute;s ricos en biodiversidad, y dentro de sus regiones, los Llanos Orientales, donde se ubican municipios como <strong>Tame</strong>, <strong>Yopal </strong>y <strong>Saravena</strong>, son hogar de una variedad de plantas que han acompa&ntilde;ado la vida humana desde tiempos antiguos.<br />\r\nEn estos territorios, las plantas no solo se han usado como alimento o medicina, sino tambi&eacute;n como materiales de construcci&oacute;n, elementos rituales y componentes de la identidad cultural de ind&iacute;genas, campesinos y sabedores.<br />\r\nAprender sobre estas plantas es tambi&eacute;n comprender la historia, la tradici&oacute;n u el presente de la regi&oacute;n.</p>",
+                                        "title": "Introducción.",
+                                        "content": "<p style=\"text-align:justify\"><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">Colombia es un pa&iacute;s de gran biodiversidad, y dentro de sus regiones, los Llanos Orientales &mdash;con municipios como <strong>Tame, Yopal y Saravena</strong>&mdash; albergan plantas que han acompa&ntilde;ado a las comunidades desde tiempos antiguos. Estas se usan no solo como alimento o medicina, sino tambi&eacute;n en rituales, construcciones y pr&aacute;cticas culturales. Conocerlas es entender la historia y la identidad de la regi&oacute;n.</span></span></p>",
                                         "slug": "slide-2-introduccion",
                                         "type": "2",
                                         "type_comic": "0",
@@ -797,8 +808,8 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen1.jpg",
-                                                "weight": 44101
+                                                "image": "media/archive/..Imagen1.jpg",
+                                                "weight": 24362
                                             },
                                             {
                                                 "id": "700",
@@ -809,8 +820,8 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen2.jpg",
-                                                "weight": 46636
+                                                "image": "media/archive/..Imagen2.jpg",
+                                                "weight": 77650
                                             },
                                             {
                                                 "id": "701",
@@ -821,15 +832,15 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen3.jpg",
-                                                "weight": 39444
+                                                "image": "media/archive/..Imagen3.jpg",
+                                                "weight": 137339
                                             }
                                         ],
-                                        "size": 130181
+                                        "size": 239351
                                     },
                                     {
-                                        "title": "DESARROLLO TEMÁTICO",
-                                        "content": "<p>Las plantas &uacute;tiles son aquellas que han servido para suplir necesidades b&aacute;sicas: salud, alimentaci&oacute;n, abrigo y cultura.&nbsp;</p>\r\n\r\n<p>En municipios como <strong>Tame</strong>, <strong>Yopal </strong>y <strong>Saravena </strong>es com&uacute;n encontrar especies que se aprovechas desde hace generaciones:<br />\r\n- <strong>Moriche (Mauritia flexuosa):</strong> produce frutos dulces, jugos refrescantes y fibras resistentes para techos y artesan&iacute;as.<br />\r\n- <strong>Matarrat&oacute;n (Gliricidia sepium):</strong> plantado en cercas vivas, como sombra y fertilizante verde, tambi&eacute;n usado para tratar picaduras de insectos.<br />\r\n- <strong>Cuj&iacute; (Prosopis juliflora):</strong> su madera es le&ntilde;a tradicional, sus frutos alimentan animales y sus espinas delimitan predios.<br />\r\n- <strong>Gu&aacute;simo (Guazuma ulmifolia):</strong> sus hojas se usan para aliviar dolencias estomacales y sus frutos para preparar refrescos.</p>\r\n\r\n<p>Estas plantas han permitido a los llaneros adaptarse y prosperar en un ambiente de sanaba y r&iacute;o.<br />\r\n&nbsp;</p>",
+                                        "title": "Desarrollo Temático (¿Qué son las plantas útiles?).",
+                                        "content": "<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">Las plantas &uacute;tiles han servido para cubrir necesidades b&aacute;sicas como salud, alimento y cultura.</span></span></p>\r\n\r\n<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">En municipios como <strong>Tame</strong>, <strong>Yopal</strong> y <strong>Saravena</strong> se aprovechan especies tradicionales como:</span></span></p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>Moriche (Mauritia flexuosa)</strong>: da frutos dulces, jugos y fibras para techos y artesan&iacute;as.</span></span></li>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>Matarrat&oacute;n (Gliricidia sepium)</strong>: usado en cercas, como sombra y remedio para picaduras.</span></span></li>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>Cuj&iacute; (Prosopis juliflora)</strong>: su madera es le&ntilde;a, sus frutos alimentan animales y sus espinas delimitan terrenos.</span></span></li>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>Gu&aacute;simo (Guazuma ulmifolia)</strong>: hojas para malestares estomacales y frutos para bebidas.</span></span></li>\r\n</ul>\r\n\r\n<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">Estas plantas han permitido a los llaneros adaptarse a la sabana y los r&iacute;os.</span></span></p>",
                                         "slug": "slide-3-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
@@ -844,8 +855,8 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen4.jpg",
-                                                "weight": 26427
+                                                "image": "media/archive/..Imagen4.jpg",
+                                                "weight": 118778
                                             },
                                             {
                                                 "id": "703",
@@ -856,8 +867,8 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen5.jpg",
-                                                "weight": 69007
+                                                "image": "media/archive/..Imagen5.jpg",
+                                                "weight": 100147
                                             },
                                             {
                                                 "id": "704",
@@ -868,15 +879,15 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen6.jpg",
-                                                "weight": 64921
+                                                "image": "media/archive/..Imagen6.jpg",
+                                                "weight": 173237
                                             }
                                         ],
-                                        "size": 160355
+                                        "size": 392162
                                     },
                                     {
-                                        "title": "DESARROLLO TEMÁTICO",
-                                        "content": "<p>El llano ha ense&ntilde;ado a sus habitantes a observar y entender a las plantas como compa&ntilde;eras de vida. Por ejemplo:</p>\r\n\r\n<p>- El <strong>Moriche </strong>no solo se consume; en muchos caser&iacute;os sus palmas se transforman en techos resistentes y frescos, ideales para el clima c&aacute;lido de <strong>Tame </strong>y <strong>Saravena</strong>.<br />\r\n- El <strong>Gu&aacute;simo </strong>es conocido por sus frutos, que al ser hervidos producen una bebida que alivia la tos y las infecciones respiratorias.<br />\r\n- La <strong>U&ntilde;a de Gato</strong> es recolectada por sabedores de las veredas y utilizada como infusi&oacute;n para fortalecer defensas.</p>\r\n\r\n<p>En cada finca, cada camino y cada sendero del llano, hay una planta que forma parte de la vida diaria ense&ntilde;ando a la gente a vivir con respeto y equilibrio con su entorno.<br />\r\n&nbsp;</p>",
+                                        "title": "Desarrollo Temático (Plantas y cultura llanera).",
+                                        "content": "<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">El llano ha ense&ntilde;ado a sus habitantes a ver las plantas como compa&ntilde;eras de vida. Por ejemplo:</span></span></p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>Moriche</strong>: sus palmas se usan como techos frescos, ideales para el clima c&aacute;lido de Tame y Saravena.</span></span></li>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>Gu&aacute;simo</strong>: sus frutos hervidos alivian la tos y problemas respiratorios.</span></span></li>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>U&ntilde;a de Gato</strong>: recolectada en veredas y usada en infusi&oacute;n para fortalecer defensas.</span></span></li>\r\n</ul>\r\n\r\n<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">Cada planta en el llano ense&ntilde;a a vivir con respeto y equilibrio con la naturaleza.</span></span></p>",
                                         "slug": "slide-4-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
@@ -891,8 +902,8 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen7.jpg",
-                                                "weight": 101276
+                                                "image": "media/archive/..Imagen7.jpg",
+                                                "weight": 63858
                                             },
                                             {
                                                 "id": "706",
@@ -903,8 +914,8 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen8.jpg",
-                                                "weight": 22654
+                                                "image": "media/archive/..Imagen8.jpg",
+                                                "weight": 97081
                                             },
                                             {
                                                 "id": "707",
@@ -915,15 +926,15 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen9.jpg",
-                                                "weight": 11068
+                                                "image": "media/archive/..Imagen9.jpg",
+                                                "weight": 68519
                                             }
                                         ],
-                                        "size": 134998
+                                        "size": 229458
                                     },
                                     {
-                                        "title": "DESARROLLO TEMÁTICO",
-                                        "content": "<p>El conocimiento sobre las plantas &uacute;tiles no viene de los libros ni laboratorios, sino de la experiencia que abuelas, abuelos y sabedores han acumulado observando la naturaleza.&nbsp;</p>\r\n\r\n<p>Algunas plantas y sus usos tradicionales:&nbsp;</p>\r\n\r\n<p>- <strong>Caruto (Genipa americana):</strong> sus frutos son usados como tinta natural para piel y textiles, y sus hojas se utilizan en infusiones cicatrizantes.<br />\r\n- <strong>Bledo (Amaranthus sp.): </strong>sus hojas se comen en guisos y sopas, y es conocido por ser nutritivo y medicinal.<br />\r\n- <strong>Leucaena (Leucaena leucocephala):</strong> &aacute;rbol forrajero que tambi&eacute;n es fuente de abono org&aacute;nico.<br />\r\n- <strong>Sarrapia (Dipteryx odorata): </strong>de la semilla se extrae un aroma dulce, utilizado en perfumer&iacute;a y tambi&eacute;n en medicinas caseras para calmar la tos.</p>\r\n\r\n<p>Estos saberes son a&uacute;n comunes en veredas, especialmente en zonas rurales donde la conexi&oacute;n con la tierra es parte del d&iacute;a a d&iacute;a.<br />\r\n&nbsp;</p>",
+                                        "title": "Desarrollo Temático (Sabiduría popular en Tame, Yopal y Saravena).",
+                                        "content": "<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">El conocimiento de las plantas &uacute;tiles viene de la experiencia de abuelas, abuelos y sabedores que han observado la naturaleza por generaciones.</span></span></p>\r\n\r\n<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">Algunas plantas y sus usos tradicionales:</span></span></p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>Caruto (Genipa americana)</strong>: sus frutos sirven como tinta natural, y sus hojas como infusi&oacute;n cicatrizante.</span></span></li>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>Bledo (Amaranthus sp.)</strong>: hojas nutritivas usadas en sopas y guisos.</span></span></li>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>Leucaena (Leucaena leucocephala)</strong>: &aacute;rbol forrajero y fuente de abono org&aacute;nico.</span></span></li>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>Sarrapia (Dipteryx odorata)</strong>: su semilla produce un aroma dulce usado en perfumes y remedios caseros.</span></span></li>\r\n</ul>\r\n\r\n<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">Estos saberes a&uacute;n viven en veredas donde la conexi&oacute;n con la tierra sigue siendo cotidiana.</span></span></p>",
                                         "slug": "slide-5-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
@@ -938,8 +949,8 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen10.jpg",
-                                                "weight": 29418
+                                                "image": "media/archive/..Imagen10.jpg",
+                                                "weight": 69784
                                             },
                                             {
                                                 "id": "709",
@@ -950,8 +961,8 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen11.jpg",
-                                                "weight": 48005
+                                                "image": "media/archive/..Imagen11.jpg",
+                                                "weight": 88778
                                             },
                                             {
                                                 "id": "710",
@@ -962,15 +973,15 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen12.jpg",
-                                                "weight": 59374
+                                                "image": "media/archive/..Imagen12.jpg",
+                                                "weight": 127055
                                             }
                                         ],
-                                        "size": 136797
+                                        "size": 285617
                                     },
                                     {
-                                        "title": "DESARROLLO TEMÁTICO",
-                                        "content": "<p>En el llano existe una frase repetida: &ldquo;si es de monte, es bueno y no hace da&ntilde;o&rdquo; &ndash; sin embargo, no todas las plantas son inofensivas. Por ejemplo:</p>\r\n\r\n<p>- El <strong>Borrachero (Brugmansia)</strong> se ve frecuentemente en cercas, jardines y patios. Sus flores son llamativas, pero sus propiedades psicotr&oacute;picas pueden ser peligrosas si no se manipulan con conocimiento.<br />\r\n- El <strong>Matarrat&oacute;n</strong>, aunque usado como cerca viva y repelente natural de insectos, puede causar intoxicaciones si se prepara mal para consumo.<br />\r\n- El <strong>Yopo</strong>, es una semilla utilizada en rituales ind&iacute;genas, induce visiones profundas pero solo debe usarse bajo gu&iacute;a espiritual.</p>\r\n\r\n<p>Este conocimiento no es solo tradici&oacute;n, tambi&eacute;n es una herramienta para el autocuidado y la supervivencia en zonas rurales.<br />\r\n&nbsp;</p>",
+                                        "title": "Desarrollo Temático (Mitos y realidades).",
+                                        "content": "<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">En el llano se dice: &ldquo;si es de monte, es bueno&rdquo;, pero no todas las plantas son inofensivas. Por ejemplo:</span></span></p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>Borrachero (Brugmansia)</strong>: com&uacute;n en jardines, tiene propiedades psicotr&oacute;picas peligrosas si se usa sin conocimiento.</span></span></li>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>Matarrat&oacute;n</strong>: &uacute;til como cerca y repelente, pero mal preparado puede intoxicar.</span></span></li>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>Yopo</strong>: semilla usada en rituales ind&iacute;genas que induce visiones; solo debe usarse con gu&iacute;a espiritual.</span></span></li>\r\n</ul>\r\n\r\n<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">Estos saberes son clave para el autocuidado y la supervivencia rural.</span></span></p>",
                                         "slug": "slide-6-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
@@ -985,8 +996,8 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen13.jpg",
-                                                "weight": 40143
+                                                "image": "media/archive/..Imagen13.jpg",
+                                                "weight": 97522
                                             },
                                             {
                                                 "id": "712",
@@ -997,8 +1008,8 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen14.jpg",
-                                                "weight": 73854
+                                                "image": "media/archive/..Imagen14.jpg",
+                                                "weight": 95584
                                             },
                                             {
                                                 "id": "713",
@@ -1009,69 +1020,57 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen15.jpg",
-                                                "weight": 53464
+                                                "image": "media/archive/..Imagen15.jpg",
+                                                "weight": 186216
                                             }
                                         ],
-                                        "size": 167461
+                                        "size": 379322
                                     },
                                     {
-                                        "title": "DESARROLLO TEMÁTICO",
-                                        "content": "<p>La expansi&oacute;n ganadera, la agricultura intensiva y el crecimiento urbano han reducido las poblaciones de plantas &uacute;tiles en <strong>Tame</strong>, <strong>Yopal </strong>y <strong>Saravena</strong>.</p>\r\n\r\n<p>Sin embargo, muchas iniciativas buscan protegerlas:</p>\r\n\r\n<p>- <strong>Viveros comunitarios y escolares</strong>, donde ni&ntilde;os y j&oacute;venes aprenden a sembrar y cuidar plantas &uacute;tiles.<br />\r\n- <strong>Huertas caseras y fincas modelo</strong>, donde se combinan cultivos de pancoger con plantas medicinales y forrajeras.<br />\r\n- Programas de recuperaci&oacute;n de <strong>Morichales </strong>y reforestaci&oacute;n de zonas ribere&ntilde;as para proteger fuentes de agua y biodiversidad.</p>\r\n\r\n<p>Conservar estas plantas es clave no solo para proteger la naturaleza, sino tambi&eacute;n para mantener vivas las costumbres y el bienestar de las comunidades.<br />\r\n&nbsp;</p>",
+                                        "title": "Desarrollo Temático (Etnobotánica y conservación de la biodiversidad).",
+                                        "content": "<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">La ganader&iacute;a, agricultura intensiva y urbanizaci&oacute;n han reducido las plantas &uacute;tiles en <strong>Tame</strong>, <strong>Yopal</strong> y <strong>Saravena</strong>.</span></span></p>\r\n\r\n<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">Pero hay iniciativas que buscan protegerlas:</span></span></p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>Viveros comunitarios y escolares</strong>: ense&ntilde;an a ni&ntilde;os y j&oacute;venes a cultivar y cuidar plantas.</span></span></li>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>Huertas caseras y fincas modelo</strong>: combinan cultivos b&aacute;sicos con plantas medicinales y forrajeras.</span></span></li>\r\n\t<li><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>Recuperaci&oacute;n de morichales y reforestaci&oacute;n</strong>: ayudan a conservar el agua y la biodiversidad.</span></span></li>\r\n</ul>\r\n\r\n<p><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\">Preservarlas es esencial para cuidar la naturaleza y mantener las tradiciones.</span></span></p>",
                                         "slug": "slide-7-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
                                         "order": 7,
                                         "gallery": [
                                             {
-                                                "id": "715",
+                                                "id": "745",
                                                 "id_pill": "302",
-                                                "slug": "vivero",
-                                                "title": "Vivero",
+                                                "slug": "galeria",
+                                                "title": "galeria",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen16.png",
-                                                "weight": 1032831
+                                                "image": "media/archive/..Imagen16.jpg",
+                                                "weight": 48048
                                             }
                                         ],
-                                        "size": 1032831
+                                        "size": 48048
                                     },
                                     {
-                                        "title": "DESARROLLO TEMÁTICO",
-                                        "content": "<p>En los Llano Orientales, la conexi&oacute;n con las plantas no es solo f&iacute;sica, tambi&eacute;n espiritual:</p>\r\n\r\n<p>- El <strong>Yopo </strong>ha sido usado por pueblos como los <strong>Sikuani </strong>y <strong>Guahibo </strong>como puente de comunicaci&oacute;n con el mundo de los sue&ntilde;os y el esp&iacute;ritu.<br />\r\n- El <strong>Moriche</strong>, adem&aacute;s de ser fuente de alimento y material, es llamado el &ldquo;&aacute;rbol de la vida&rdquo; porque de &eacute;l depende el equilibrio de animales, agua y seres humanos.<br />\r\n- La <strong>Guayusa </strong>y el <strong>Caruto </strong>acompa&ntilde;an rituales de iniciaci&oacute;n, sanaci&oacute;n y agradecimiento a la naturaleza.</p>\r\n\r\n<p>Estas plantas son respetadas no solo por su utilidad sino por su significado cultural.<br />\r\n&nbsp;</p>",
+                                        "title": "Desarrollo Temático (Plantas sagradas: identidad y espiritualidad).",
+                                        "content": "",
                                         "slug": "slide-8-desarrollo-tematico",
                                         "type": "2",
                                         "type_comic": "0",
                                         "order": 8,
                                         "gallery": [
                                             {
-                                                "id": "716",
+                                                "id": "746",
                                                 "id_pill": "303",
-                                                "slug": "indigena-sikuani",
-                                                "title": "Indígena Sikuani",
+                                                "slug": "mapa",
+                                                "title": "mapa",
                                                 "type": "PHOTO",
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/magen17.jpg",
-                                                "weight": 68750
-                                            },
-                                            {
-                                                "id": "717",
-                                                "id_pill": "303",
-                                                "slug": "indigena-guahibo",
-                                                "title": "Indígena Guahibo",
-                                                "type": "PHOTO",
-                                                "online_url": null,
-                                                "offline_url": null,
-                                                "video_url": null,
-                                                "image": "media/archive/magen18.jpg",
-                                                "weight": 52922
+                                                "image": "media/archive/..Imagen17.png",
+                                                "weight": 43733
                                             }
                                         ],
-                                        "size": 121672
+                                        "size": 43733
                                     },
                                     {
                                         "title": "DESARROLLO TEMÁTICO",
@@ -1475,7 +1474,7 @@
                                         "weight": 224513
                                     }
                                 ],
-                                "pill_size": 103762486
+                                "pill_size": 119005489
                             }
                         ]
                     },
