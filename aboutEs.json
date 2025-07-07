@@ -1,52 +1,52 @@
 [
+  {
+    "page_metadata": {
+      "title": "Acerca de",
+      "description": "",
+      "slug": "acerca-de",
+      "sections": [
         {
-            "page_metadata": {
-                "title": "Acerca de",
-                "description": "",
-                "slug": "acerca-de",
-                "sections": [
-                    {
-                        "title": "Acerca de",
-                        "description": "",
-                        "background_image": null,
-                        "format_image": null,
-                        "color_section": "#FFFFFFFF",
-                        "color_post": "#FFFFFFFF",
-                        "title_section_color": "#000000FF",
-                        "title_post_color": "#000000FF",
-                        "text_post_color": "#000000FF",
-                        "slug": "acerca-de",
-                        "component": null,
-                        "align": "RIGHT",
-                        "lines_to_show": "1",
-                        "title_visibility": true,
-                        "subtitle_visibility": false,
-                        "logo_visibility": "1",
-                        "tag_visibility": false,
-                        "description_visibility": false,
-                        "gallery_visibility": false,
-                        "scrollspy": false,
-                        "color_scrollspy": "#FFFFFFFF",
-                        "title_scrollspy": "#FFFFFFFF",
-                        "text_scrollspy": "#FFFFFFFF",
-                        "posts": [
-                            {
-                                "title": "Versión 1.0.",
-                                "subtitle": null,
-                                "description": "<p>🌿 <strong>Descubre la etnobot&aacute;nica de la Orinoqu&iacute;a</strong><br />\r\nExplora c&oacute;mo las comunidades locales han usado por siglos las plantas para curar, nutrir y preservar su cultura. Vive una experiencia inmersiva con la Fundaci&oacute;n Orinoquia Biodiversa y conoce nuestros proyectos de conservaci&oacute;n del saber ancestral y la biodiversidad.</p>\r\n\r\n<p>&Uacute;nete a nuestras iniciativas educativas y s&eacute; parte del cuidado del patrimonio natural y cultural de nuestra regi&oacute;n. 🌱🌎</p>\r\n\r\n<table align=\"center\" border=\"0\" style=\"width:250px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td><img alt=\"\" src=\"https://corporinoquitos-bucket.s3.us-east-2.amazonaws.com/media/pictures/Group+185.png\" style=\"height:50px; padding:4px; width:150px\" /></td>\r\n\t\t\t<td><img alt=\"\" src=\"https://storage.googleapis.com/app-educafob/media/contents/post_gallery/danta-FOB.png\" style=\"height:250px; width:150px\" /></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
-                                "slug": "acerca-de",
-                                "image": null,
-                                "audio": null,
-                                "parent": null,
-                                "tags": [],
-                                "creation_date": "27/11/2023 16:46",
-                                "calendar_date": "24/04/2025 12:29",
-                                "pill_size": 0
-                            }
-                        ]
-                    }
-                ],
-                "project": null
+          "title": "Acerca de",
+          "description": "",
+          "background_image": null,
+          "format_image": null,
+          "color_section": "#FFFFFFFF",
+          "color_post": "#FFFFFFFF",
+          "title_section_color": "#000000FF",
+          "title_post_color": "#000000FF",
+          "text_post_color": "#000000FF",
+          "slug": "acerca-de",
+          "component": null,
+          "align": "RIGHT",
+          "lines_to_show": "1",
+          "title_visibility": true,
+          "subtitle_visibility": false,
+          "logo_visibility": "1",
+          "tag_visibility": false,
+          "description_visibility": false,
+          "gallery_visibility": false,
+          "scrollspy": false,
+          "color_scrollspy": "#FFFFFFFF",
+          "title_scrollspy": "#FFFFFFFF",
+          "text_scrollspy": "#FFFFFFFF",
+          "posts": [
+            {
+              "title": "Versión 1.0.",
+              "subtitle": null,
+              "description": "<p> <strong>Descubre la etnobot&aacute;nica de la Orinoqu&iacute;a</strong><br />\r\nExplora c&oacute;mo las comunidades locales han usado por siglos las plantas para curar, nutrir y preservar su cultura. Vive una experiencia inmersiva con la Fundaci&oacute;n Orinoquia Biodiversa y conoce nuestros proyectos de conservaci&oacute;n del saber ancestral y la biodiversidad.</p>\r\n\r\n<p>&Uacute;nete a nuestras iniciativas educativas y s&eacute; parte del cuidado del patrimonio natural y cultural de nuestra regi&oacute;n. </p>\r\n\r\n<table align=\"center\" border=\"0\" style=\"width:250px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td><img alt=\"\" src=\"https://storage.googleapis.com/corporinoquitos-bucket/media/pictures/Group%20185.png\" style=\"height:50px; padding:4px; width:150px\" /></td>\r\n\t\t\t<td><img alt=\"\" src=\"https://storage.googleapis.com/corporinoquitos-bucket/media/pictures/4.png\" style=\"height:250px; width:150px\" /></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
+              "slug": "acerca-de",
+              "image": null,
+              "audio": null,
+              "parent": null,
+              "tags": [],
+              "creation_date": "27/11/2023 16:46",
+              "calendar_date": "24/04/2025 12:29",
+              "pill_size": 0
             }
+          ]
         }
-    ]
+      ],
+      "project": null
+    }
+  }
+]
