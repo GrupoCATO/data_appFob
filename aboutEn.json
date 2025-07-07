@@ -1,52 +1,52 @@
 [
+  {
+    "page_metadata": {
+      "title": "About",
+      "description": "",
+      "slug": "acerca-de",
+      "sections": [
         {
-            "page_metadata": {
-                "title": "About",
-                "description": "",
-                "slug": "acerca-de",
-                "sections": [
-                    {
-                        "title": "About",
-                        "description": "",
-                        "background_image": null,
-                        "format_image": null,
-                        "color_section": "#FFFFFFFF",
-                        "color_post": "#FFFFFFFF",
-                        "title_section_color": "#000000FF",
-                        "title_post_color": "#000000FF",
-                        "text_post_color": "#000000FF",
-                        "slug": "acerca-de",
-                        "component": null,
-                        "align": "RIGHT",
-                        "lines_to_show": "1",
-                        "title_visibility": true,
-                        "subtitle_visibility": false,
-                        "logo_visibility": "1",
-                        "tag_visibility": false,
-                        "description_visibility": false,
-                        "gallery_visibility": false,
-                        "scrollspy": false,
-                        "color_scrollspy": "#FFFFFFFF",
-                        "title_scrollspy": "#FFFFFFFF",
-                        "text_scrollspy": "#FFFFFFFF",
-                        "posts": [
-                            {
-                                "title": "Version 1.0.0",
-                                "subtitle": null,
-                                "description": "<p>🌿 Discover the ethnobotany of the Orinoco.<br />\r\nExplore how local communities have used plants for centuries to heal, nourish and preserve their culture. Live an immersive experience with Fundaci&oacute;n Orinoquia Biodiversa and learn about our ancestral knowledge and biodiversity conservation projects.</p>\r\n\r\n<p>Join our educational initiatives and be part of caring for the natural and cultural heritage of our region. 🌱🌎</p>\r\n\r\n<table align=\"center\" border=\"0\" style=\"width:250px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td><img alt=\"\" src=\"https://corporinoquitos-bucket.s3.us-east-2.amazonaws.com/media/pictures/image+(3).png\" style=\"height:50px; padding:4px; width:150px\" /></td>\r\n\t\t\t<td><img alt=\"\" src=\"https://storage.googleapis.com/app-educafob/media/contents/post_gallery/danta-FOB.png\" style=\"height:250px; width:150px\" /></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
-                                "slug": "acerca-de",
-                                "image": null,
-                                "audio": null,
-                                "parent": null,
-                                "tags": [],
-                                "creation_date": "27/11/2023 16:46",
-                                "calendar_date": "24/04/2025 12:29",
-                                "pill_size": 0
-                            }
-                        ]
-                    }
-                ],
-                "project": null
+          "title": "About",
+          "description": "",
+          "background_image": null,
+          "format_image": null,
+          "color_section": "#FFFFFFFF",
+          "color_post": "#FFFFFFFF",
+          "title_section_color": "#000000FF",
+          "title_post_color": "#000000FF",
+          "text_post_color": "#000000FF",
+          "slug": "acerca-de",
+          "component": null,
+          "align": "RIGHT",
+          "lines_to_show": "1",
+          "title_visibility": true,
+          "subtitle_visibility": false,
+          "logo_visibility": "1",
+          "tag_visibility": false,
+          "description_visibility": false,
+          "gallery_visibility": false,
+          "scrollspy": false,
+          "color_scrollspy": "#FFFFFFFF",
+          "title_scrollspy": "#FFFFFFFF",
+          "text_scrollspy": "#FFFFFFFF",
+          "posts": [
+            {
+              "title": "Version 1.0.0",
+              "subtitle": null,
+              "description": "<p> Discover the ethnobotany of the Orinoco.<br />\r\nExplore how local communities have used plants for centuries to heal, nourish and preserve their culture. Live an immersive experience with Fundaci&oacute;n Orinoquia Biodiversa and learn about our ancestral knowledge and biodiversity conservation projects.</p>\r\n\r\n<p>Join our educational initiatives and be part of caring for the natural and cultural heritage of our region. </p>\r\n\r\n<table align=\"center\" border=\"0\" style=\"width:250px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td><img alt=\"\" src=\"https://storage.googleapis.com/corporinoquitos-bucket/media/pictures/Group%20185.png\" style=\"height:50px; padding:4px; width:150px\" /></td>\r\n\t\t\t<td><img alt=\"\" src=\"https://storage.googleapis.com/corporinoquitos-bucket/media/pictures/4.png\" style=\"height:250px; width:150px\" /></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
+              "slug": "acerca-de",
+              "image": null,
+              "audio": null,
+              "parent": null,
+              "tags": [],
+              "creation_date": "27/11/2023 16:46",
+              "calendar_date": "24/04/2025 12:29",
+              "pill_size": 0
             }
+          ]
         }
-    ]
+      ],
+      "project": null
+    }
+  }
+]
